@@ -2,5 +2,6 @@ collections:
   13th-asg:
     output: true
     order:
+      - Logo & Mascot.md
       - Message from CdM, 13th ASG.md
       - Message from SSSC Chairperson.md
