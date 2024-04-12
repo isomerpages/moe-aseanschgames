@@ -12,7 +12,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2024_ASG_Logo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_ASG_Logo_resized.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -26,7 +26,7 @@ signifies the spirit of solidarity.&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_ASG_Mascot.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ASG_mascot_resized.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
