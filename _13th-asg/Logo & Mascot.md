@@ -20,3 +20,28 @@ description: ""
 <p>without doping and without drugs,&nbsp;&nbsp;</p>
 <p>for the glory of sport&nbsp;</p>
 <p>and the honour of our teams.</p></h5></center>
+
+13th ASG DA NANG, VIETNAM – 
+
+
+
+
+
+The dragon eye featured in the logo is based on a Vietnamese legend which signifies the spirit of solidarity. 
+
+ 
+
+A cartoon monkey holding a torch
+
+Description automatically generated 
+
+ 
+
+Da Nang is home to rare primate species.  
+
+ 
+
+The official Gams mascot is the Red-shanked Douc Langur (Pygathrix nemaeus), an endangered primate species in Vietnam.  
+
+ 
+
