@@ -2,6 +2,7 @@ collections:
   singapore-contingent:
     output: true
     order:
+      - Singapore School Contingent Secretariat Team.md
       - MOE Senior Officials.md
       - ASSC Technical Committee.md
       - Singapore Schools Contingent CDM & Dy CDM.md
