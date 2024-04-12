@@ -14,39 +14,131 @@ one yearly major sporting event in a ‘Games’ format.</p>
 <p></p>
 <p>Subsequent years, the countries took turns to host the ASEAN Schools Games
 as follows:</p>
-<p></p>
-<p>2nd ASG</p>
-<p>2010</p>
-<p>Kuala Lumpur, Malaysia</p>
-<p>3rd ASG</p>
-<p>2011</p>
-<p>Singapore</p>
-<p>4th ASG</p>
-<p>2012</p>
-<p>Surabaya, Indonesia</p>
-<p>5th ASG</p>
-<p>2013</p>
-<p>Hanoi, Vietnam</p>
-<p>6th ASG</p>
-<p>2014</p>
-<p>Manila, Philippines</p>
-<p>7th ASG</p>
-<p>2015</p>
-<p>Bandar Seri Begawan, Brunei Darussalam</p>
-<p>8th ASG</p>
-<p>2016</p>
-<p>Chiang Mai, Thailand</p>
-<p>9th ASG</p>
-<p>2017</p>
-<p>Singapore</p>
-<p>10th ASG</p>
-<p>2018</p>
-<p>Shah Alam Malaysia</p>
-<p>11th ASG</p>
-<p>2019</p>
-<p>Semarang, Indonesia</p>
-<p>12th ASG</p>
-<p>2020</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2<sup>nd</sup> ASG&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2010&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kuala Lumpur, Malaysia&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup> ASG&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2011&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4<sup>th</sup> ASG&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2012&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Surabaya, Indonesia&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5<sup>th</sup> ASG&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2013&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hanoi, Vietnam&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6<sup>th</sup> ASG&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2014&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Manila, Philippines&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7<sup>th</sup> ASG&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2015&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bandar Seri Begawan, Brunei Darussalam&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8<sup>th</sup> ASG&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2016&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chiang Mai, Thailand&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9<sup>th</sup> ASG&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2017&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10<sup>th</sup> ASG&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2018&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shah Alam Malaysia&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11<sup>th</sup> ASG&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2019&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Semarang, Indonesia&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12<sup>th</sup> ASG&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2020&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
 <p>This year, the 13th ASEAN Schools Games will be held in Da Nang, Vietname
