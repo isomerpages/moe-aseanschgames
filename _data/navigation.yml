@@ -2,9 +2,9 @@ logo: /images/isomer-logo.svg
 links:
   - title: About
     collection: about
+  - title: 13th ASG
+    collection: 13th-asg
   - title: daily updates
     url: /permalink
   - title: Contact Us
     url: /contact-us/
-  - title: 13th ASG
-    collection: 13th-asg
