@@ -140,11 +140,10 @@ as follows:</p>
 </tbody>
 </table>
 <p></p>
-<p></p>
-<p>This year, the 13th ASEAN Schools Games will be held in Da Nang, Vietname
+<p>This year, the 13th ASEAN Schools Games will be held in Da Nang, Vietnam
 from 31 May to June 2024.</p>
 <p></p>
-<p>The objectives of ASG are as follow:</p>
+<p>The objectives of ASG are as follows:</p>
 <p>To promote ASEAN Solidarity in our youth through school sports;</p>
 <p>To provide opportunities for school athletes to benchmark their sporting
 talents in the ASEAN region; and</p>
