@@ -24,6 +24,12 @@ as follows:</p>
 <p>2010&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2010_ASG.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
 <p>Kuala Lumpur, Malaysia&nbsp;</p>
 </td>
 </tr>
@@ -33,6 +39,9 @@ as follows:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2011&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore&nbsp;</p>
@@ -46,6 +55,9 @@ as follows:</p>
 <p>2012&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Surabaya, Indonesia&nbsp;</p>
 </td>
 </tr>
@@ -55,6 +67,9 @@ as follows:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2013&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Hanoi, Vietnam&nbsp;</p>
@@ -68,6 +83,9 @@ as follows:</p>
 <p>2014&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Manila, Philippines&nbsp;</p>
 </td>
 </tr>
@@ -77,6 +95,9 @@ as follows:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2015&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Bandar Seri Begawan, Brunei Darussalam&nbsp;</p>
@@ -90,6 +111,9 @@ as follows:</p>
 <p>2016&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Chiang Mai, Thailand&nbsp;</p>
 </td>
 </tr>
@@ -99,6 +123,9 @@ as follows:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2017&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore&nbsp;</p>
@@ -112,6 +139,9 @@ as follows:</p>
 <p>2018&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Shah Alam Malaysia&nbsp;</p>
 </td>
 </tr>
@@ -123,6 +153,9 @@ as follows:</p>
 <p>2019&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Semarang, Indonesia&nbsp;</p>
 </td>
 </tr>
@@ -132,6 +165,9 @@ as follows:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2020&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
