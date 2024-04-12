@@ -2,4 +2,5 @@ collections:
   singapore-contingent:
     output: true
     order:
+      - ASSC Technical Committee.md
       - Singapore Schools Contingent CDM & Dy CDM.md
