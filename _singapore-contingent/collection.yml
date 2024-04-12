@@ -2,5 +2,6 @@ collections:
   singapore-contingent:
     output: true
     order:
+      - MOE Senior Officials.md
       - ASSC Technical Committee.md
       - Singapore Schools Contingent CDM & Dy CDM.md
