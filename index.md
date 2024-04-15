@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: ASEAN School Games
+title: ASEAN Schools Games
 description: Brief site description here
 image: /images/2024_ASG_Logo.jpg
 permalink: /
