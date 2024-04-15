@@ -4,7 +4,7 @@ permalink: /logo-mascot/
 variant: tiptap
 description: ""
 ---
-<h4><strong>13<sup>th</sup> ASG DA NANG, VIETNAM –</strong>&nbsp;<strong>LOGO &amp; MASCOT</strong>&nbsp;</h4>
+<h4><strong>13<sup>th</sup> ASEAN SCHOOLS GAMES DA NANG, VIETNAM –</strong>&nbsp;<strong>LOGO &amp; MASCOT</strong>&nbsp;</h4>
 <p></p>
 <table>
 <tbody>
@@ -12,7 +12,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_ASG_Logo_resized.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ASG_logo___logo___mascot_page.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -26,7 +26,7 @@ signifies the spirit of solidarity.&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ASG_mascot_resized.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_ASG_Mascot_removebg_preview.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
