@@ -10,7 +10,7 @@ description: ""
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Technical Committee/Krishnan_Aravinthan.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Technical Committee/Krishnan_Aravinthan.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -26,7 +26,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Technical Committee/Justin_Arul_Pierre.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Technical Committee/Justin_Arul_Pierre.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -53,7 +53,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Technical Committee/Ong_Chee_Wee.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Technical Committee/Ong_Chee_Wee.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
