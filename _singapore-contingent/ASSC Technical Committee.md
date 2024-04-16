@@ -14,12 +14,11 @@ description: ""
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p>Mr Krishnan Aravinthan<br>
-Chairman<strong>, <em>ASSC Technical Committee</em></strong>
-<br>
-Director
-<br>Physical, Sports &amp; Outdoor Education Branch<br>
-Student Development Curriculum Division 2</p>
+<p>Mr Krishnan Aravinthan
+<br>Chairman<strong>, <em>ASSC Technical Committee</em></strong> 
+<br>Director
+<br>Physical, Sports &amp; Outdoor Education Branch
+<br>Student Development Curriculum Division 2</p>
 <p></p>
 </th>
 </tr>
@@ -31,13 +30,10 @@ Student Development Curriculum Division 2</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Justin Arul Pierre</strong>
-<br>
-<strong>Member, <em>ASSC Technical Committee</em></strong>
-<br>
-<strong>Chairperson</strong>
-<br>
-<strong>Singapore Schools Sports Council</strong>
+<p><strong>Mr Justin Arul Pierre</strong> 
+<br><strong>Member, <em>ASSC Technical Committee</em></strong> 
+<br><strong>Chairperson</strong> 
+<br><strong>Singapore Schools Sports Council</strong> 
 <br>
 </p>
 </td>
@@ -47,11 +43,9 @@ Student Development Curriculum Division 2</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr V Siva Kumar&nbsp; <br><em>Member, ASSC Technical Committee</em></strong>
-<br>
-<strong>Deputy Director</strong>
-<br>
-<strong>Physical, Sports &amp; Outdoor Education Branch (Sports Education)</strong>
+<p><strong>Mr V Siva Kumar&nbsp; <br><em>Member, ASSC Technical Committee</em></strong> 
+<br><strong>Deputy Director</strong> 
+<br><strong>Physical, Sports &amp; Outdoor Education Branch (Sports Education)</strong>
 </p>
 </td>
 </tr>
@@ -63,13 +57,10 @@ Student Development Curriculum Division 2</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Ong Chee Wee</strong>
-<br>
-<strong><em>Secretary, ASSC Technical Committee</em></strong>
-<br>
-<strong>Senior Specialist</strong>
-<br>
-<strong>Physical, Sports &amp; Outdoor Education Branch (Sports Education)</strong>
+<p><strong>Mr Ong Chee Wee</strong> 
+<br><strong><em>Secretary, ASSC Technical Committee</em></strong> 
+<br><strong>Senior Specialist</strong> 
+<br><strong>Physical, Sports &amp; Outdoor Education Branch (Sports Education)</strong>
 </p>
 </td>
 </tr>
