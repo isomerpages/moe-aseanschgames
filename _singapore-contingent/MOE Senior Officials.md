@@ -14,14 +14,14 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Eugenia Lim</strong>
-</p>
-<p><strong>Divisional Director</strong>
-</p>
-<p><strong>Student Development Curriculum Division 2</strong>
-</p>
-<p><strong>Ministry of Education</strong>
-</p>
+<strong>Mrs Eugenia Lim</strong>
+<br>
+<strong>Divisional Director</strong>
+<br>
+<strong>Student Development Curriculum Division 2</strong>
+<br>
+<strong>Ministry of Education</strong>
+<br>
 </td>
 </tr>
 </tbody>
