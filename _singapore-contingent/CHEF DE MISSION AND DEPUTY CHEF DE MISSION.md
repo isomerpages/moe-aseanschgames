@@ -14,11 +14,11 @@ description: ""
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p>Mr Chua Lek Hong</p>
-<p>Chef de Mission (CDM)</p>
-<p>Principal</p>
-<p>Kranji Secondary School</p>
-<p></p>
+	<p><strong>Mr Chua Lek Hong</strong> <br>
+Chef de Mission (CDM)<br>
+Principal<br>
+Kranji Secondary School
+</p>
 </th>
 </tr>
 <tr>
@@ -28,15 +28,12 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Rasidah Bte Rahim</strong>
-</p>
-<p><strong>Deputy Chef de Mission (DyCDM)</strong>
-</p>
-<p><strong>Principal</strong>
-</p>
-<p><strong>St. Patrick’s School</strong>
-</p>
-</td>
+<p><strong>Mdm Rasidah Bte Rahim<br>
+Deputy Chef de Mission (DyCDM)<br>
+Principal<br>
+St. Patrick’s School
+</strong></p><strong>
+</strong></td>
 </tr>
 </tbody>
 </table>
