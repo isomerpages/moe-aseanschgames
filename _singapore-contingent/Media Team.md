@@ -14,8 +14,8 @@ description: ""
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p>Mr Muhammad Rasul Bin Sulaiman</p>
-<p>MOE CEG</p>
+<p>Mr Muhammad Rasul Bin Sulaiman<br>
+MOE CEG</p>
 <p></p>
 </th>
 </tr>
@@ -28,8 +28,8 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Cheng Yi Wei Hilda</strong>
-</p>
-<p><strong>MOE CEG</strong>
+<br>
+<strong>MOE CEG</strong>
 </p>
 <p></p>
 </td>
