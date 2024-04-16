@@ -14,12 +14,12 @@ description: ""
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p>Mr Krishnan Aravinthan</p>
-<p>Chairman<strong>, <em>ASSC Technical Committee</em></strong>
-</p>
-<p>Director</p>
-<p>Physical, Sports &amp; Outdoor Education Branch</p>
-<p>Student Development Curriculum Division 2</p>
+<p>Mr Krishnan Aravinthan<br>
+Chairman<strong>, <em>ASSC Technical Committee</em></strong>
+<br>
+Director
+<br>Physical, Sports &amp; Outdoor Education Branch<br>
+Student Development Curriculum Division 2</p>
 <p></p>
 </th>
 </tr>
@@ -32,14 +32,14 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Justin Arul Pierre</strong>
+<br>
+<strong>Member, <em>ASSC Technical Committee</em></strong>
+<br>
+<strong>Chairperson</strong>
+<br>
+<strong>Singapore Schools Sports Council</strong>
+<br>
 </p>
-<p><strong>Member, <em>ASSC Technical Committee</em></strong>
-</p>
-<p><strong>Chairperson</strong>
-</p>
-<p><strong>Singapore Schools Sports Council</strong>
-</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -48,10 +48,10 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr V Siva Kumar&nbsp; <br><em>Member, ASSC Technical Committee</em></strong>
-</p>
-<p><strong>Deputy Director</strong>
-</p>
-<p><strong>Physical, Sports &amp; Outdoor Education Branch (Sports Education)</strong>
+<br>
+<strong>Deputy Director</strong>
+<br>
+<strong>Physical, Sports &amp; Outdoor Education Branch (Sports Education)</strong>
 </p>
 </td>
 </tr>
@@ -64,12 +64,12 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Ong Chee Wee</strong>
-</p>
-<p><strong><em>Secretary, ASSC Technical Committee</em></strong>
-</p>
-<p><strong>Senior Specialist</strong>
-</p>
-<p><strong>Physical, Sports &amp; Outdoor Education Branch (Sports Education)</strong>
+<br>
+<strong><em>Secretary, ASSC Technical Committee</em></strong>
+<br>
+<strong>Senior Specialist</strong>
+<br>
+<strong>Physical, Sports &amp; Outdoor Education Branch (Sports Education)</strong>
 </p>
 </td>
 </tr>
