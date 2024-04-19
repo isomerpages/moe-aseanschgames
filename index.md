@@ -7,6 +7,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/13th_ASG_Banner_GIF__1_.gif
+      background: /images/Copy_of_13th_ASG_Banner_GIF.gif
       variant: center
+      title: 13th ASEAN SCHOOLS GAMES
+      subtitle: "Singapore Schools Sports Team "
 ---
