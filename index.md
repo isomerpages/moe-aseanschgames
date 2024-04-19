@@ -7,9 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/aHR0cHM6Ly9pMC53cC5jb20vd3d3LnByaW50bWFnLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAyMS8wMi80Y2JlOGRfZjFlZDI4MDBhNDk2NDk4NDgxMDJjNjhmYzVhNjZlNTNtdjIuZ2lmP2ZpdD00NzYlMkMyODAmc3NsPTE_.gif
+      background: /images/13th_ASG_Banner_GIF__1_.gif
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
