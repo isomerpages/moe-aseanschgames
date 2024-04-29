@@ -7,6 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/ASG_banner_resized.png
+      background: /images/Copy_of_13th_ASG_Banner_GIF.gif
       variant: center
 ---
