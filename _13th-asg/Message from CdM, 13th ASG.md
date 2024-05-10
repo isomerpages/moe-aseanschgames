@@ -27,5 +27,5 @@ guiding and caring for the student-athletes. I would like to extend my
 deepest appreciation to all for their dedicated service.&nbsp;&nbsp;</p>
 <p>I wish the team all the best and let’s look forward to a memorable and
 enriching experience.&nbsp;</p>
-<p><strong>Mr Chua Lek Hong&nbsp; Chef de Mission&nbsp; 13th ASG Singapore Schools Sports Team&nbsp;</strong>
+<p><strong>Mr Chua Lek Hong<br>Chef de Mission<br>13th ASG Singapore Schools Sports Team&nbsp;</strong>
 </p>
