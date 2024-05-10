@@ -4,7 +4,11 @@ permalink: /assc-technical-committee/
 variant: tiptap
 description: ""
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -25,9 +29,6 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Technical Committee/Justin_Arul_Pierre.png">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Justin Arul Pierre</strong> 
