@@ -6,13 +6,17 @@ description: ""
 ---
 <h4><strong>13<sup>th</sup> ASEAN SCHOOLS GAMES DA NANG, VIETNAM –</strong>&nbsp;<strong>LOGO &amp; MASCOT</strong>&nbsp;</h4>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ASG_logo___logo___mascot_page.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 ASG Logo &amp; Mascot/ASG_logo___logo___mascot_page.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
