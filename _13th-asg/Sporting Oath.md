@@ -4,7 +4,7 @@ permalink: /sporting-oath/
 variant: markdown
 description: ""
 ---
-<h2><strong></strong><center><strong>THE SPORTING OATH</strong>&nbsp;</center></h2>
+<h2><center><strong>THE SPORTING OATH</strong>&nbsp;</center></h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 ASG Logo &amp; Mascot/2024_ASG_Logo.jpg">
 </div>
