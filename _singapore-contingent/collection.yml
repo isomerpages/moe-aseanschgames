@@ -2,6 +2,7 @@ collections:
   singapore-contingent:
     output: true
     order:
+      - Medical Team.md
       - MOE Senior Officials.md
       - Chef de Mission and Deputy Chef de Mission.md
       - ASSC Technical Committee.md
