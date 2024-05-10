@@ -13,7 +13,7 @@ description: ""
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secretariat Team/Kevin.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Secretariat Team/Kevin.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -26,7 +26,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secretariat Team/Leonard.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Secretariat Team/Leonard.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -38,7 +38,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secretariat Team/Thomas.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Secretariat Team/Thomas.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -50,7 +50,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secretariat Team/Sze_Ling.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Secretariat Team/Sze_Ling.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -62,7 +62,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secretariat Team/Darsha.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Secretariat Team/Darsha.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -74,7 +74,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secretariat Team/Reena.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Secretariat Team/Reena.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
