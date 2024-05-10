@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ASSC_Logo.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ASSC_Logo.png">
 </div>
 <p>Prior to 1978, four ASEAN countries comprising Indonesia, Thailand, Singapore
 and Malaysia met and discussed the formation of a sports body that would
