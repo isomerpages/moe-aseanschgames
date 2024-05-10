@@ -4,18 +4,22 @@ permalink: /media-team/
 variant: tiptap
 description: ""
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Media_Team_1.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Media_Team_1.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p>Ms Liu Yin Juin<br>
-MOE CEG</p>
+<p>Ms Liu Yin Juin
+<br>MOE CEG</p>
 <p></p>
 </th>
 </tr>
@@ -23,13 +27,12 @@ MOE CEG</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Media_Team_2.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Media_Team_2.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Nurfarahin Suhaimi</strong>
-<br>
-<strong>MOE CEG</strong>
+<p><strong>Ms Nurfarahin Suhaimi</strong> 
+<br><strong>MOE CEG</strong>
 </p>
 <p></p>
 </td>
