@@ -14,7 +14,9 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/facebook_icon.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.instagram.com/moesingapore/"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/instagram_icon.png"></a>
 </th>
