@@ -1,18 +1,38 @@
 ---
 title: Message from CdM, 13th ASG
 permalink: /message-from-cdm-13th-asg/
-variant: markdown
+variant: tiptap
 description: ""
 ---
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CDM/1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
 <p>As Chef de Mission of the 13<sup>th</sup> ASEAN Schools Games (ASG) Singapore
 Contingent, I am honoured to lead such a talented and dedicated team with
 Mdm Rasidah Bte Rahim, Principal of Clementi Town Secondary School, as
 the Deputy Chef de Mission.&nbsp;&nbsp;</p>
-<p>The Singapore Schools Sports Team (SSST) is proud and eager to be given
-the opportunity to meet our ASEAN friends once again after a four-year
-hiatus due to the COVID-19 pandemic. The ASG is a rare opportunity for
-our young athletes to compete against the best youth athletes in the ASEAN
-region and make new friends from the member countries.&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>The SSST comprises 106 student-athletes from various schools who have
 been training together to give their best. To all the student-athletes
 representing the SSST in the four sports, I offer my heartiest congratulation.
