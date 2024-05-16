@@ -25,7 +25,6 @@ supporting the student-athletes on their journey. Your hard work and dedication
 enable the student-athletes to enjoy this experience.&nbsp;&nbsp;</p>
 <p>I wish everyone a safe, exciting and meaningful 13<sup>th</sup> ASG. Let
 the games begin!&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>Mr Justin Arul Pierre</strong>&nbsp;</p>
-<p><strong>Chairperson</strong>&nbsp;</p>
-<p><strong>Singapore Schools Sports Council (SSSC)</strong>&nbsp;</p>
+<p><strong>Mr Justin Arul Pierre</strong>&nbsp;<br>
+<strong>Chairperson</strong>&nbsp;<br>
+<strong>Singapore Schools Sports Council (SSSC)</strong>&nbsp;</p>
