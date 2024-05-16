@@ -18,26 +18,25 @@ description: ""
 </td>
 </tr>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Vietnam1.jpg">
 </div>
 <p></p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Vietnam2.png">
 </div>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p>The Social Republic of Vietnam, or Vietnam, will be hosting the 13<sup>th</sup> ASEAN
 School Games. Vietnam, a strip of land shaped like the letter “S”, lies
 on the eastern part of the Indochinese peninsula. Three quarters of its
 territory comprise mountains and hills and it has over 3,000 km long coastline.
 Some key industries in Vietnam include infrastructure, manufacturing, retail,
 and food and agriculture.</p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
