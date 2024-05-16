@@ -4,7 +4,7 @@ permalink: /message-from-cdm-13th-asg/
 variant: markdown
 description: ""
 ---
-<table style="minWidth: 50px">
+<table style="minWidth: 0px">
 <colgroup>
 <col>
 <col>
@@ -21,7 +21,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CDM/1.jpg">
+<img style="width: 100%" height="100%" width="100%" alt="" src="/images/CDM/1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
