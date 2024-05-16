@@ -21,8 +21,10 @@ pages you visit, it cannot read data off your hard disk.</p>
 accept cookies, but you can usually modify your browser setting to decline
 cookies if you prefer. This may prevent you from taking full advantage
 of the digital service.</p>
-<p>If you provide us with personal data:</p>
 </li>
+<li>
+<p>If you provide us with personal data:</p>
+<ul data-tight="true" class="tight">
 <li>
 <p>Where appropriate, we may share necessary data with other Government agencies,
 so as to improve the discharge of public functions, and to serve you in
@@ -41,6 +43,8 @@ supplied us or other Government agencies. This will speed up the transaction
 and save you the trouble of repeating previous submissions. Should the
 data be out-of-date, please supply us the latest data.</p>
 </li>
+</ul>
+</li>
 <li>
 <p>To safeguard your personal data, all electronic storage and transmission
 of personal data is secured with appropriate security technologies.</p>
@@ -51,9 +55,6 @@ whose data protection and privacy practices may differ from ours. We are
 not responsible for the content and privacy practices of these other digital
 services and we encourage you to consult the privacy notices of those digital
 services.</p>
-</li>
-<li>
-<p></p>
 </li>
 </ol>
 <p></p>
