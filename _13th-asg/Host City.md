@@ -145,4 +145,20 @@ to March tends to bring heavier rains.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<h4>About Da Nang</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AboutDaNang.jpg">
+</div>
+<p>Da Nang is the fifth-largest city in Vietnam by municipal population.
+Da Nang city lies in the Midlands of Vietnam, from which Hanoi capitol
+in the north and Ho Chi Minh city in the south are almost equally spaced.
+A coastal city with a shoreline, extending many kilometres, it is one of
+Vietnam's most important port cities.</p>
+<p>Not only is the city famous for its beaches, Da Nang’s charm lays in its
+geographical position: leaning against the majestic Truong Son mountains
+(or the Annamite Range), as well as having Son Tra Peninsula embracing
+the sea.</p>
+<p>Da Nang has a tropical monsoon climate with two seasons: a typhoon and
+wet season from September to December and a dry season from January to
+August. Temperatures have an annual average of around 26 °C.</p>
+<p>&nbsp;</p>
