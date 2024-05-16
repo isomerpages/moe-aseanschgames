@@ -94,7 +94,6 @@ workers, entrepreneurs, and soldiers.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Population</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>96.484 million (2019 est.)&nbsp;</p>
