@@ -21,7 +21,7 @@ description: ""
     box-sizing: border-box;
   }
   img {
-    width: 50%; /* Adjust image size for mobile view */
+    max-width: 50%; /* Reduce image size by 50% for mobile view */
     height: auto;
     display: block;
     margin: 0 auto; /* Center the image */
@@ -42,7 +42,7 @@ description: ""
     box-sizing: border-box;
   }
   img {
-    width: 50%; /* Reduce image size by 50% for desktop view */
+    max-width: 50%; /* Reduce image size by 50% for desktop view */
     height: auto;
     display: block;
     margin: 0 auto; /* Center the image */
