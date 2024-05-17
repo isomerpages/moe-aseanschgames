@@ -26,7 +26,7 @@ description: ""
 
 
 
-<table style="minWidth: 50px;">
+<table style="min-width: 50px;">
   <colgroup>
     <col style="width: 50%;">
     <col style="width: 50%;">
@@ -35,7 +35,7 @@ description: ""
     <tr>
       <td rowspan="1" colspan="1">
         <div class="isomer-image-wrapper">
-          <img height="auto" width="100%" alt="" src="/images/6.png">
+          <img style="width: 100%" height="auto" width="100%" alt="" src="/images/6.png">
         </div>
       </td>
       <td rowspan="1" colspan="1">
