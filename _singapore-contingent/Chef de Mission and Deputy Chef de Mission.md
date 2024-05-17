@@ -6,7 +6,7 @@ description: ""
 ---
 <style>
 /* Add mobile responsiveness */
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 300px) {
   table {
     width: 100%;
   }
