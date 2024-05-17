@@ -19,6 +19,7 @@ description: ""
     width: 100%;
     padding: 10px;
     box-sizing: border-box;
+    text-align: center; /* Center align text for mobile view */
   }
   img {
     max-width: 50%; /* Reduce image size by 50% for mobile view */
@@ -27,7 +28,7 @@ description: ""
     margin: 0 auto; /* Center the image */
   }
   p {
-    text-align: center;
+    text-align: center; /* Center align text for mobile view */
   }
 }
 @media only screen and (min-width: 601px) {
@@ -40,12 +41,19 @@ description: ""
     width: 48%; /* Adjust column width for two columns */
     margin-bottom: 20px; /* Add gap between rows */
     box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center align items for desktop view */
   }
   img {
     max-width: 50%; /* Reduce image size by 50% for desktop view */
     height: auto;
     display: block;
     margin: 0 auto; /* Center the image */
+  }
+  p {
+    text-align: center; /* Center align text for desktop view */
+    margin-top: 10px; /* Add space between image and text for desktop view */
   }
 }
 </style>
