@@ -4,14 +4,9 @@ permalink: /cdm-dy-cdm/
 variant: markdown
 description: ""
 ---
-
-
-
-
-
 <style>
 /* Add mobile responsiveness */
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 400px) {
   table {
     width: 100%;
   }
@@ -47,6 +42,3 @@ description: ""
     </tr>
   </tbody>
 </table>
-
-
-
