@@ -21,9 +21,9 @@ description: ""
 
 
 
-<table style="minWidth: 100%;">
+<table style="minWidth: 50%;">
   <colgroup>
-    <col style="width: 100%;">
+    <col style="width: 50%;">
   </colgroup>
   <tbody>
     <tr>
