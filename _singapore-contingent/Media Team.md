@@ -19,7 +19,6 @@ description: ""
 <th rowspan="1" colspan="1">
 <p>Ms Liu Yin Juin
 <br>MOE CEG</p>
-<p></p>
 </th>
 </tr>
 <tr>
@@ -32,7 +31,6 @@ description: ""
 <p><strong>Ms Nurfarahin Suhaimi</strong> 
 <br><strong>MOE CEG</strong>
 </p>
-<p></p>
 </td>
 </tr>
 </tbody>
