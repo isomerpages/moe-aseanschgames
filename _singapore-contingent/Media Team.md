@@ -4,11 +4,6 @@ permalink: /media-team/
 variant: markdown
 description: ""
 ---
-
-
-
-
-
 <style>
 /* Add mobile responsiveness */
 @media only screen and (max-width: 600px) {
@@ -21,7 +16,7 @@ description: ""
     box-sizing: border-box;
   }
   img {
-    width: 50%; /* Adjust image size for mobile view */
+    width: 25%; /* Adjust image size for mobile view */
     height: auto;
     display: block;
     margin: 0 auto; /* Center the image */
@@ -60,6 +55,3 @@ description: ""
     <p>Ms Nurfarahin Suhaimi<br>MOE CEG</p>
   </div>
 </div>
-
-
-
