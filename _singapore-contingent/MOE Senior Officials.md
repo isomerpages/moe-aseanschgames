@@ -35,7 +35,7 @@ description: ""
         <div class="isomer-image-wrapper">
           <img height="auto" width="100%" alt="" src="/images/6.png">
         </div>
-        <p><strong>Mrs Eugenia Lim</strong><br><strong>Divisional Director</strong><br><strong>Student Development Curriculum Division 2</strong><br><strong>Ministry of Education</strong></p>
+        <p> </p><p style="text-align: center;"><strong>Mrs Eugenia Lim</strong><br><strong>Divisional Director</strong><br><strong>Student Development Curriculum Division 2</strong><br><strong>Ministry of Education</strong></p>
       </td>
     </tr>
   </tbody>
