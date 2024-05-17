@@ -4,7 +4,7 @@ permalink: /message-from-cdm-13th-asg/
 variant: tiptap
 description: ""
 ---
-<table style="minWidth: 0px">
+<table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
@@ -25,15 +25,17 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>As Chef de Mission of the 13<sup>th</sup> ASEAN Schools Games (ASG) Singapore
-Contingent, I am honoured to lead such a talented and dedicated team with
-Mdm Rasidah Bte Rahim, Principal of Clementi Town Secondary School, as
-the Deputy Chef de Mission.&nbsp;&nbsp;</p>
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>The SSST comprises 102 student-athletes from various schools who have
+<p>As Chef de Mission of the 13<sup>th</sup> ASEAN Schools Games (ASG) Singapore
+Contingent, I am honoured to lead such a talented and dedicated team with
+Mdm Rasidah Bte Rahim, Principal of Clementi Town Secondary School, as
+the Deputy Chef de Mission.&nbsp;&nbsp;</p>
+<p>
+<br>The SSST comprises 102 student-athletes from various schools who have
 been training together to give their best. To all the student-athletes
 representing the SSST in the four sports, I offer my heartiest congratulation.
 You have all worked incredibly hard to get to this point, and I am confident
