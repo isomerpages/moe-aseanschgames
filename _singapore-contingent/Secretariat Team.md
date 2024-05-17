@@ -18,6 +18,7 @@ description: ""
   img {
     max-width: 100%;
     height: auto;
+    width: 80%; /* Adjust the width as needed */
   }
 }
 </style>
