@@ -39,16 +39,12 @@ description: ""
         <div class="isomer-image-wrapper">
           <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Media Team/9.png">
         </div>
-      </td>
-      <td rowspan="1" colspan="1">
         <p style="text-align: center;">Ms Liu Yin Juin<br>MOE CEG</p>
       </td>
       <td rowspan="1" colspan="1">
         <div class="isomer-image-wrapper">
           <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Media Team/8.png">
         </div>
-      </td>
-      <td rowspan="1" colspan="1">
         <p style="text-align: center;"><strong>Ms Nurfarahin Suhaimi</strong><br><strong>MOE CEG</strong></p>
       </td>
     </tr>
