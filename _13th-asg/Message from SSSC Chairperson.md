@@ -4,7 +4,6 @@ permalink: /message-from-sssc-chairperson/
 variant: markdown
 description: ""
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 
 <img style="width: 25%; padding: 15px" height="auto" width="100%" alt="" align="left" src="/images/Technical Committee/Justin.png">
