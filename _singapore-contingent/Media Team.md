@@ -46,7 +46,7 @@ description: ""
     align-items: center; /* Center align items for desktop view */
   }
   img {
-    max-width: 50%; /* Reduce image size by 50% for desktop view */
+    max-width: 80%; /* Adjust image size for desktop view */
     height: auto;
     display: block;
     margin: 0 auto; /* Center the image */
