@@ -18,7 +18,7 @@ You have all worked incredibly hard to get to this point, and I am confident
 that you will represent Singapore with pride. I wish you all the best for
 the competition, and I look forward to seeing you compete with passion,
 determination and sportsmanship.&nbsp;</p>
-<p>This year, the Singapore Contingent will comprise 35 dedicated officials
+<p>This year, the Singapore Contingent will comprise 37 dedicated officials
 supporting in the respective roles as secretariat, team managers, coaches,
 medical staff, and media personnel. They all play significant roles in
 guiding and caring for the student-athletes. I would like to extend my
