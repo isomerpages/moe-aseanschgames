@@ -16,7 +16,7 @@ description: ""
     width: 100%;
   }
   img {
-    max-width: 50%;
+    width: 100%;
     height: auto;
     display: block;
     margin: 0 auto; /* Center the image */
@@ -35,8 +35,7 @@ description: ""
 <div class="center-table">
   <table style="min-width: 100%;">
     <colgroup>
-      <col style="width: 50%;">
-      <col style="width: 50%;">
+      <col style="width: 100%;">
     </colgroup>
     <tbody>
       <tr>
@@ -46,6 +45,8 @@ description: ""
           </div>
           <p>Mr Krishnan Aravinthan<br><strong>Chairman, <em>ASSC Technical Committee</em></strong><br>Director<br>Physical, Sports &amp; Outdoor Education Branch<br>Student Development Curriculum Division 2</p>
         </td>
+      </tr>
+      <tr>
         <td rowspan="1" colspan="1">
           <div class="isomer-image-wrapper">
             <img height="auto" width="100%" alt="" src="/images/Technical Committee/Justin_resized_B.png">
@@ -60,6 +61,8 @@ description: ""
           </div>
           <p><strong>Mr V Siva Kumar</strong><br><em>Member, ASSC Technical Committee</em><br><strong>Deputy Director</strong><br><strong>Physical, Sports &amp; Outdoor Education Branch (Sports Education)</strong></p>
         </td>
+      </tr>
+      <tr>
         <td rowspan="1" colspan="1">
           <div class="isomer-image-wrapper">
             <img height="auto" width="100%" alt="" src="/images/Technical Committee/Ishaq_resized_B.png">
