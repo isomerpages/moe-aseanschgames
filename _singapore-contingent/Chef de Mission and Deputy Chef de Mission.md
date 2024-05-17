@@ -31,7 +31,7 @@ Kranji Secondary School
 <p><strong>Mdm Rasidah Bte Rahim<br>
 Deputy Chef de Mission (DyCDM)<br>
 Principal<br>
-St. Patrick’s School
+Clementi Town Secondary School
 </strong></p><strong>
 </strong></td>
 </tr>
