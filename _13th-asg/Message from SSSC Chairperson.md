@@ -4,10 +4,28 @@ permalink: /message-from-sssc-chairperson/
 variant: tiptap
 description: ""
 ---
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Technical Committee/Justin.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
 <p>On behalf of the Singapore Schools Sports Council (SSSC), I would like
 to extend my warmest congratulations to all student-athletes who have been
 selected to represent Singapore Schools Sports Team (SSST) at the 13th
 ASEAN Schools Games (ASG) to be held in Da Nang, Vietnam.&nbsp;&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>The ASG is a valuable platform that allows student-athletes to showcase
 their talents and compete against the best in the region. It is also an
 opportunity for them to learn from their peers, make new friends and gain
