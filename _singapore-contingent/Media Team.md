@@ -4,11 +4,6 @@ permalink: /media-team/
 variant: markdown
 description: ""
 ---
-
-
-
-
-
 <style>
 /* Add mobile responsiveness */
 @media only screen and (max-width: 600px) {
@@ -48,11 +43,8 @@ description: ""
         <div class="isomer-image-wrapper">
           <img height="auto" width="100%" alt="" src="/images/Media Team/8.png">
         </div>
-        <p><strong>Ms Nurfarahin Suhaimi</strong><br><strong>MOE CEG</strong></p>
+        <p>Ms Nurfarahin Suhaimi<br>MOE CEG</p>
       </td>
     </tr>
   </tbody>
 </table>
-
-
-
