@@ -24,15 +24,12 @@ description: ""
   p {
     text-align: center;
   }
-  .center-table {
-    margin: 0 auto; /* Center the table */
-  }
 }
 </style>
 
 
 
-<div class="center-table">
+<div>
   <table style="min-width: 100%;">
     <colgroup>
       <col style="width: 100%;">
@@ -73,6 +70,7 @@ description: ""
     </tbody>
   </table>
 </div>
+
 
 
 
