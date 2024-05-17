@@ -60,13 +60,13 @@ description: ""
     <div class="isomer-image-wrapper">
       <img alt="" src="/images/Technical Committee/Krishnan_Aravinthan.png">
     </div>
-    <p>Mr Krishnan Aravinthan<br>Chairman, ASSC Technical Committee<br><br>Director<br>Physical, Sports &amp; Outdoor Education Branch<br>Student Development Curriculum Division 2</p>
+    <p>Mr Krishnan Aravinthan<br>Chairman, ASSC Technical Committee<br>Director<br>Physical, Sports &amp; Outdoor Education Branch<br>Student Development Curriculum Division 2</p>
   </div>
   <div class="column">
     <div class="isomer-image-wrapper">
       <img alt="" src="/images/Technical Committee/Justin_resized_B.png">
     </div>
-    <p>Mr Justin Arul Pierre<br>Member, ASSC Technical Committee<br><br>Chairperson<br>Singapore Schools Sports Council</p>
+    <p>Mr Justin Arul Pierre<br>Member, ASSC Technical Committee<br>Chairperson<br>Singapore Schools Sports Council</p>
   </div>
 
 
