@@ -60,13 +60,13 @@ description: ""
     <div class="isomer-image-wrapper">
       <img alt="" src="/images/Technical Committee/Krishnan_Aravinthan.png">
     </div>
-    <p>Mr Krishnan Aravinthan<br>Chairman,<br>ASSC Technical Committee<br>Director</p>
+    <p>Mr Krishnan Aravinthan<br>Chairman, ASSC Technical Committee<br><br>Director<br>Physical, Sports &amp; Outdoor Education Branch<br>Student Development Curriculum Division 2</p>
   </div>
   <div class="column">
     <div class="isomer-image-wrapper">
       <img alt="" src="/images/Technical Committee/Justin_resized_B.png">
     </div>
-    <p>Mr Justin Arul Pierre<br>Member,<br>ASSC Technical Committee</p>
+    <p>Mr Justin Arul Pierre<br>Member, ASSC Technical Committee<br><br>Chairperson<br>Singapore Schools Sports Council</p>
   </div>
 
 
@@ -76,13 +76,15 @@ description: ""
     <div class="isomer-image-wrapper">
       <img alt="" src="/images/Technical Committee/Siva_resized_B.png">
     </div>
-    <p>Mr V Siva Kumar<br>Member, ASSC Technical Committee<br></p>
+    <p>Mr V Siva Kumar<br>Member, ASSC Technical Committee<br><br>Deputy Director <br>
+Physical, Sports &amp; Outdoor Education Branch (Sports Education)</p>
   </div>
   <div class="column">
     <div class="isomer-image-wrapper">
       <img alt="" src="/images/Technical Committee/Ishaq_resized_B.png">
     </div>
-    <p>Mr Ong Chee We<br>Secretary, ASSC Technical Committee</p>
+    <p>Mr Ong Chee Wee<br>Secretary, ASSC Technical Committee<br><br>Senior Specialist
+Physical, Sports &amp; Outdoor Education Branch (Sports Education)</p>
   </div>
 
 
