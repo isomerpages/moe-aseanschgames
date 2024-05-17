@@ -21,7 +21,7 @@ description: ""
     box-sizing: border-box;
   }
   img {
-    width: 80%; /* Adjust image size as needed */
+    width: 50%; /* Adjust image size for mobile view */
     height: auto;
     display: block;
     margin: 0 auto; /* Center the image */
