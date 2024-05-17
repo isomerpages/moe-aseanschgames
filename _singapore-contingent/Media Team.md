@@ -12,11 +12,16 @@ description: ""
 <style>
 /* Add mobile responsiveness */
 @media only screen and (max-width: 600px) {
-  table {
+  .container {
     width: 100%;
   }
+  .column {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+  }
   img {
-    max-width: 50%;
+    width: 80%; /* Adjust image size as needed */
     height: auto;
     display: block;
     margin: 0 auto; /* Center the image */
@@ -25,32 +30,36 @@ description: ""
     text-align: center;
   }
 }
+@media only screen and (min-width: 601px) {
+  .container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between; /* Add gap between columns */
+  }
+  .column {
+    width: 48%; /* Adjust column width for two columns */
+    margin-bottom: 20px; /* Add gap between rows */
+    box-sizing: border-box;
+  }
+}
 </style>
 
 
 
-<table style="min-width: 100px;">
-  <colgroup>
-    <col style="width: 50%;">
-    <col style="width: 50%;">
-  </colgroup>
-  <tbody>
-    <tr>
-      <td rowspan="1" colspan="1">
-        <div class="isomer-image-wrapper">
-          <img height="auto" width="100%" alt="" src="/images/Media Team/9.png">
-        </div>
-        <p><strong>Ms Liu Yin Juin<br>MOE CEG</strong></p>
-      </td>
-      <td rowspan="1" colspan="1">
-        <div class="isomer-image-wrapper">
-          <img height="auto" width="100%" alt="" src="/images/Media Team/8.png">
-        </div>
-        <p><strong>Ms Nurfarahin Suhaimi</strong><br><strong>MOE CEG</strong></p>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<div class="container">
+  <div class="column">
+    <div class="isomer-image-wrapper">
+      <img alt="" src="/images/Media Team/9.png">
+    </div>
+    <p>Ms Liu Yin Juin<br>MOE CEG</p>
+  </div>
+  <div class="column">
+    <div class="isomer-image-wrapper">
+      <img alt="" src="/images/Media Team/8.png">
+    </div>
+    <p>Ms Nurfarahin Suhaimi<br>MOE CEG</p>
+  </div>
+</div>
 
 
 
