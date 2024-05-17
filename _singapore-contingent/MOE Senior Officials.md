@@ -4,24 +4,46 @@ permalink: /moe-senior-officials/
 variant: markdown
 description: ""
 ---
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<p><strong>Mrs Eugenia Lim <br>Divisional Director <br>Student Development Curriculum Division 2 <br>Ministry of Education <br></strong>
-</p>
-</td>
-</tr>
-</tbody>
+
+
+
+
+
+<style>
+/* Add mobile responsiveness */
+@media only screen and (max-width: 600px) {
+  table {
+    width: 100%;
+  }
+  img {
+    max-width: 50%;
+    height: auto;
+    display: block;
+    margin: 0 auto; /* Center the image */
+  }
+}
+</style>
+
+
+
+<table style="minWidth: 50px;">
+  <colgroup>
+    <col style="width: 50%;">
+    <col style="width: 50%;">
+  </colgroup>
+  <tbody>
+    <tr>
+      <td rowspan="1" colspan="1">
+        <div class="isomer-image-wrapper">
+          <img height="auto" width="100%" alt="" src="/images/6.png">
+        </div>
+      </td>
+      <td rowspan="1" colspan="1">
+        <p style="text-align: center;"><strong>Mrs Eugenia Lim</strong><br><strong>Divisional Director</strong><br><strong>Student Development Curriculum Division 2</strong><br><strong>Ministry of Education</strong></p>
+      </td>
+    </tr>
+  </tbody>
 </table>
-<p></p>
+
+
+
