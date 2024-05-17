@@ -83,7 +83,7 @@ Physical, Sports &amp; Outdoor Education Branch (Sports Education)</p>
     <div class="isomer-image-wrapper">
       <img alt="" src="/images/Technical Committee/Ishaq_resized_B.png">
     </div>
-    <p>Mr Ong Chee Wee<br>Secretary, ASSC Technical Committee<br><br>Senior Specialist
+    <p>Mr Ong Chee Wee<br>Secretary, ASSC Technical Committee<br>Senior Specialist
 Physical, Sports &amp; Outdoor Education Branch (Sports Education)</p>
   </div>
 
