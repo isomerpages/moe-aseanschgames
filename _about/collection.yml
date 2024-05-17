@@ -1,0 +1,6 @@
+collections:
+  about:
+    output: true
+    order:
+      - Background of ASEAN Schools Games.md
+      - Background of ASEAN Schools Sports Council (ASSC).md
