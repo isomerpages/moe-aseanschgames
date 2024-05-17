@@ -4,66 +4,87 @@ permalink: /assc-technical-committee/
 variant: markdown
 description: ""
 ---
-
-
-
-
-
 <style>
 /* Add mobile responsiveness */
 @media only screen and (max-width: 600px) {
-  table {
+  .container {
     width: 100%;
-    display: block;
+  }
+  .column {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: center; /* Center align text for mobile view */
   }
   img {
-    width: 100%;
+    max-width: 50%; /* Reduce image size by 50% for mobile view */
     height: auto;
     display: block;
     margin: 0 auto; /* Center the image */
   }
   p {
-    text-align: center;
+    text-align: center; /* Center align text for mobile view */
+  }
+}
+@media only screen and (min-width: 601px) {
+  .container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between; /* Add gap between columns */
+  }
+  .column {
+    width: 48%; /* Adjust column width for two columns */
+    margin-bottom: 20px; /* Add gap between rows */
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center align items for desktop view */
+  }
+  img {
+    max-width: 80%; /* Adjust image size for desktop view */
+    height: auto;
+    display: block;
+    margin: 0 auto; /* Center the image */
+  }
+  p {
+    text-align: center; /* Center align text for desktop view */
+    margin-top: 10px; /* Add space between image and text for desktop view */
   }
 }
 </style>
 
 
 
-<div>
-  <table style="min-width: 100%;">
-    <tbody>
-      <tr>
-        <td style="width: 50%;">
-          <div class="isomer-image-wrapper">
-            <img height="auto" width="100%" alt="" src="/images/Technical Committee/Krishnan_Aravinthan.png">
-          </div>
-          <p>Mr Krishnan Aravinthan<br><strong>Chairman, <em>ASSC Technical Committee</em></strong><br>Director<br>Physical, Sports &amp; Outdoor Education Branch<br>Student Development Curriculum Division 2</p>
-        </td>
-        <td style="width: 50%;">
-          <div class="isomer-image-wrapper">
-            <img height="auto" width="100%" alt="" src="/images/Technical Committee/Justin_resized_B.png">
-          </div>
-          <p><strong>Mr Justin Arul Pierre</strong><br><strong>Member, <em>ASSC Technical Committee</em></strong><br><strong>Chairperson</strong><br><strong>Singapore Schools Sports Council</strong></p>
-        </td>
-      </tr>
-      <tr>
-        <td style="width: 50%;">
-          <div class="isomer-image-wrapper">
-            <img height="auto" width="100%" alt="" src="/images/Technical Committee/Siva_resized_B.png">
-          </div>
-          <p><strong>Mr V Siva Kumar</strong><br><em>Member, ASSC Technical Committee</em><br><strong>Deputy Director</strong><br><strong>Physical, Sports &amp; Outdoor Education Branch (Sports Education)</strong></p>
-        </td>
-        <td style="width: 50%;">
-          <div class="isomer-image-wrapper">
-            <img height="auto" width="100%" alt="" src="/images/Technical Committee/Ishaq_resized_B.png">
-          </div>
-          <p><strong>Mr Ong Chee Wee</strong><br><em>Secretary, ASSC Technical Committee</em><br><strong>Senior Specialist</strong><br><strong>Physical, Sports &amp; Outdoor Education Branch (Sports Education)</strong></p>
-        </td>
-      </tr>
-    </tbody>
-  </table>
+<div class="container">
+  <div class="column">
+    <div class="isomer-image-wrapper">
+      <img alt="" src="/images/Technical Committee/Krishnan_Aravinthan.png">
+    </div>
+    <p>Mr Krishnan Aravinthan<br>Chairman,<br>ASSC Technical Committee<br>Director</p>
+  </div>
+  <div class="column">
+    <div class="isomer-image-wrapper">
+      <img alt="" src="/images/Technical Committee/Justin_resized_B.png">
+    </div>
+    <p>Mr Justin Arul Pierre<br>Member,<br>ASSC Technical Committee</p>
+  </div>
+
+
+
+
+  <div class="column">
+    <div class="isomer-image-wrapper">
+      <img alt="" src="/images/Technical Committee/Siva_resized_B.png">
+    </div>
+    <p>Mr V Siva Kumar<br>Member, ASSC Technical Committee<br></p>
+  </div>
+  <div class="column">
+    <div class="isomer-image-wrapper">
+      <img alt="" src="/images/Technical Committee/Ishaq_resized_B.png">
+    </div>
+    <p>Mr Ong Chee We<br>Secretary, ASSC Technical Committee</p>
+  </div>
+
+
+
 </div>
-
-
-
