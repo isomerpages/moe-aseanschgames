@@ -21,7 +21,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Vietnam1.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Vietnam1.jpg">
 </div>
 <p></p>
 <p></p>
@@ -132,22 +132,11 @@ workers, entrepreneurs, and soldiers.</p>
 <p>&nbsp;Buddhist (70 – 90%)</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Climate</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Temperate equatorial climate year round, characterized by temperatures
-ranging between 23 to 32 degrees Celsius, and an average annual rainfall
-of 320 cm. There is no distinct rainy season, though the period from November
-to March tends to bring heavier rains.</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4>About Da Nang</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AboutDaNang.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/AboutDaNang.jpg">
 </div>
 <p>Da Nang is the fifth-largest city in Vietnam by municipal population.
 Da Nang city lies in the Midlands of Vietnam, from which Hanoi capitol
