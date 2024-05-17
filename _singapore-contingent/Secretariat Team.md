@@ -21,7 +21,7 @@ description: ""
 <th rowspan="1" colspan="1">
 <p><strong>Mr Kevin Teo</strong>
 </p>
-<p><strong><em>Contingent Manager</em></strong>&nbsp;</p>
+<p><strong>Contingent Manager</strong>&nbsp;</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -30,7 +30,7 @@ description: ""
 </th>
 <th rowspan="1" colspan="1">
 <p><strong>Mr Leonard Kok</strong>&nbsp;</p>
-<p><strong><em>Assistant Contingent Manager</em></strong>&nbsp;</p>
+<p><strong>Assistant Contingent Manager</strong>&nbsp;</p>
 </th>
 </tr>
 <tr>
@@ -41,7 +41,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Thomas Yong</strong>&nbsp;</p>
-<p><strong><em>Secretariat</em></strong>&nbsp;</p>
+<p><strong>Secretariat</strong>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -50,7 +50,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Foo Sze Ling</strong>&nbsp;</p>
-<p><strong><em>Secretariat</em></strong>&nbsp;</p>
+<p><strong>Secretariat</strong>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -61,7 +61,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Miss Darshana Naidu</strong>&nbsp;</p>
-<p><strong><em>Secretariat</em></strong>&nbsp;</p>
+<p><strong>Secretariat</strong>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -70,7 +70,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Miss Reena Wong</strong>&nbsp;</p>
-<p><strong><em>Secretariat</em></strong>
+<p><strong>Secretariat</strong>
 </p>
 </td>
 </tr>
