@@ -4,6 +4,11 @@ permalink: /cdm-dy-cdm/
 variant: markdown
 description: ""
 ---
+
+
+
+
+
 <style>
 /* Add mobile responsiveness */
 @media only screen and (max-width: 600px) {
@@ -16,6 +21,9 @@ description: ""
     display: block;
     margin: 0 auto; /* Center the image */
   }
+  p {
+    text-align: center;
+  }
 }
 </style>
 
@@ -26,18 +34,19 @@ description: ""
     <tr>
       <td rowspan="1" colspan="1">
         <div class="isomer-image-wrapper">
-          <img style="width: 50%;" height="auto" width="50%" alt="" src="/images/CDM/1.jpg">
+          <img height="auto" width="100%" alt="" src="/images/CDM/1.jpg">
         </div>
-        <p style="text-align: center;"><strong>Mr Chua Lek Hong</strong><br><strong>Chef de Mission (CDM)</strong><br><strong>Principal</strong><br><strong>Kranji Secondary School</strong></p>
+        <p><strong>Mr Chua Lek Hong</strong><br><strong>Chef de Mission (CDM)</strong><br><strong>Principal</strong><br><strong>Kranji Secondary School</strong></p>
       </td>
-    </tr>
-    <tr>
       <td rowspan="1" colspan="1">
         <div class="isomer-image-wrapper">
-          <img style="width: 50%;" height="auto" width="50%" alt="" src="/images/CDM/2.jpg">
+          <img height="auto" width="100%" alt="" src="/images/CDM/2.jpg">
         </div>
-        <p style="text-align: center;"><strong>Mdm Rasidah Bte Rahim</strong><br><strong>Deputy Chef de Mission (DyCDM)</strong><br><strong>Principal</strong><br><strong>Clementi Town Secondary School</strong></p>
+        <p><strong>Mdm Rasidah Bte Rahim</strong><br><strong>Deputy Chef de Mission (DyCDM)</strong><br><strong>Principal</strong><br><strong>Clementi Town Secondary School</strong></p>
       </td>
     </tr>
   </tbody>
 </table>
+
+
+
