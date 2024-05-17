@@ -4,6 +4,11 @@ permalink: /media-team/
 variant: markdown
 description: ""
 ---
+
+
+
+
+
 <style>
 /* Add mobile responsiveness */
 @media only screen and (max-width: 600px) {
@@ -26,10 +31,8 @@ description: ""
 
 <table style="min-width: 100px;">
   <colgroup>
-    <col style="width: 25%;">
-    <col style="width: 25%;">
-    <col style="width: 25%;">
-    <col style="width: 25%;">
+    <col style="width: 50%;">
+    <col style="width: 50%;">
   </colgroup>
   <tbody>
     <tr>
@@ -37,7 +40,7 @@ description: ""
         <div class="isomer-image-wrapper">
           <img height="auto" width="100%" alt="" src="/images/Media Team/9.png">
         </div>
-				<p><strong>Ms Liu Yin Juin<br>MOE CEG</strong></p>
+        <p><strong>Ms Liu Yin Juin<br>MOE CEG</strong></p>
       </td>
       <td rowspan="1" colspan="1">
         <div class="isomer-image-wrapper">
@@ -48,3 +51,6 @@ description: ""
     </tr>
   </tbody>
 </table>
+
+
+
