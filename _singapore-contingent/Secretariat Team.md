@@ -16,9 +16,10 @@ description: ""
     width: 100%;
   }
   img {
-    max-width: 100%;
+    max-width: 50%;
     height: auto;
-    width: 80%; /* Adjust the width as needed */
+    display: block;
+    margin: 0 auto; /* Center the image */
   }
 }
 </style>
@@ -33,51 +34,12 @@ description: ""
     <tr>
       <td rowspan="1" colspan="1">
         <div class="isomer-image-wrapper">
-          <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secretariat Team/2.png">
+          <img height="auto" width="100%" alt="" src="/images/Secretariat Team/2.png">
         </div>
-        <p><strong>Mr Kevin Teo</strong><br><strong>Contingent Manager</strong></p>
+        <p style="text-align: center;"><strong>Mr Kevin Teo</strong><br><strong>Contingent Manager</strong></p>
       </td>
     </tr>
-    <tr>
-      <td rowspan="1" colspan="1">
-        <div class="isomer-image-wrapper">
-          <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secretariat Team/3.png">
-        </div>
-        <p><strong>Mr Leonard Kok</strong><br><strong>Assistant Contingent Manager</strong></p>
-      </td>
-    </tr>
-    <tr>
-      <td rowspan="1" colspan="1">
-        <div class="isomer-image-wrapper">
-          <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secretariat Team/7.png">
-        </div>
-        <p><strong>Mr Thomas Yong</strong><br><strong>Secretariat</strong></p>
-      </td>
-    </tr>
-    <tr>
-      <td rowspan="1" colspan="1">
-        <div class="isomer-image-wrapper">
-          <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secretariat Team/5.png">
-        </div>
-        <p><strong>Ms Foo Sze Ling</strong><br><strong>Secretariat</strong></p>
-      </td>
-    </tr>
-    <tr>
-      <td rowspan="1" colspan="1">
-        <div class="isomer-image-wrapper">
-          <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secretariat Team/1.png">
-        </div>
-        <p><strong>Miss Darshana Naidu</strong><br><strong>Secretariat</strong></p>
-      </td>
-    </tr>
-    <tr>
-      <td rowspan="1" colspan="1">
-        <div class="isomer-image-wrapper">
-          <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secretariat Team/4.png">
-        </div>
-        <p><strong>Miss Reena Wong</strong><br><strong>Secretariat</strong></p>
-      </td>
-    </tr>
+    
   </tbody>
 </table>
 
