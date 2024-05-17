@@ -4,11 +4,6 @@ permalink: /secretariat-team/
 variant: markdown
 description: ""
 ---
-
-
-
-
-
 <style>
 /* Add mobile responsiveness */
 @media only screen and (max-width: 600px) {
@@ -65,7 +60,7 @@ description: ""
     <div class="isomer-image-wrapper">
       <img alt="" src="/images/Secretariat Team/2.png">
     </div>
-    <p>Mr Kevin Teo&lt;<br>Contingent Manager</p>
+    <p>Mr Kevin Teo<br>Contingent Manager</p>
   </div>
   <div class="column">
     <div class="isomer-image-wrapper">
@@ -95,7 +90,7 @@ description: ""
     <div class="isomer-image-wrapper">
       <img alt="" src="/images/Secretariat Team/1.png">
     </div>
-    <p>Miss Darshana Naidu&lt;<br>Secretariat</p>
+    <p>Miss Darshana Naidu<br>Secretariat</p>
   </div>
   <div class="column">
     <div class="isomer-image-wrapper">
@@ -106,7 +101,3 @@ description: ""
 
 
 </div>
-
-
-
-
