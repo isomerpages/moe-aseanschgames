@@ -4,6 +4,11 @@ permalink: /media-team/
 variant: markdown
 description: ""
 ---
+
+
+
+
+
 <style>
 /* Add mobile responsiveness */
 @media only screen and (max-width: 600px) {
@@ -16,7 +21,7 @@ description: ""
     box-sizing: border-box;
   }
   img {
-    width: 25%; /* Adjust image size for mobile view */
+    width: 50%; /* Adjust image size for mobile view */
     height: auto;
     display: block;
     margin: 0 auto; /* Center the image */
@@ -35,6 +40,12 @@ description: ""
     width: 48%; /* Adjust column width for two columns */
     margin-bottom: 20px; /* Add gap between rows */
     box-sizing: border-box;
+  }
+  img {
+    width: 50%; /* Reduce image size by 50% for desktop view */
+    height: auto;
+    display: block;
+    margin: 0 auto; /* Center the image */
   }
 }
 </style>
@@ -55,3 +66,6 @@ description: ""
     <p>Ms Nurfarahin Suhaimi<br>MOE CEG</p>
   </div>
 </div>
+
+
+
