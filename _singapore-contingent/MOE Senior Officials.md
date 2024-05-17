@@ -4,6 +4,11 @@ permalink: /moe-senior-officials/
 variant: markdown
 description: ""
 ---
+
+
+
+
+
 <style>
 /* Add mobile responsiveness */
 @media only screen and (max-width: 600px) {
@@ -19,24 +24,32 @@ description: ""
   p {
     text-align: center;
   }
+  .center-table {
+    margin: 0 auto; /* Center the table */
+  }
 }
 </style>
 
 
 
-<table style="min-width: 50px;">
-  <colgroup>
-    <col style="width: 50%;">
-    <col style="width: 50%;">
-  </colgroup>
-  <tbody>
-    <tr>
-      <td rowspan="1" colspan="1">
-        <div class="isomer-image-wrapper">
-          <img height="auto" width="100%" alt="" src="/images/6.png">
-        </div>
-        <p> </p><p style="text-align: center;"><strong>Mrs Eugenia Lim</strong><br><strong>Divisional Director</strong><br><strong>Student Development Curriculum Division 2</strong><br><strong>Ministry of Education</strong></p>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<div class="center-table">
+  <table style="min-width: 50px;">
+    <colgroup>
+      <col style="width: 50%;">
+      <col style="width: 50%;">
+    </colgroup>
+    <tbody>
+      <tr>
+        <td rowspan="1" colspan="1">
+          <div class="isomer-image-wrapper">
+            <img height="auto" width="100%" alt="" src="/images/6.png">
+          </div>
+          <p> </p><p style="text-align: center;"><strong>Mrs Eugenia Lim</strong><br><strong>Divisional Director</strong><br><strong>Student Development Curriculum Division 2</strong><br><strong>Ministry of Education</strong></p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
+
