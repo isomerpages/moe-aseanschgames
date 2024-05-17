@@ -4,11 +4,6 @@ permalink: /media-team/
 variant: markdown
 description: ""
 ---
-
-
-
-
-
 <style>
 /* Add mobile responsiveness */
 @media only screen and (max-width: 600px) {
@@ -53,6 +48,3 @@ description: ""
     </tr>
   </tbody>
 </table>
-
-
-
