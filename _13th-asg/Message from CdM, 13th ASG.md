@@ -4,8 +4,10 @@ permalink: /message-from-cdm-13th-asg/
 variant: markdown
 description: ""
 ---
-
-<p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 25%; padding: 15px" height="auto" width="100%" alt="" align="left" src="/images/CDM/1.jpg">
+</div><p>
 <br>As Chef de Mission of the 13<sup>th</sup> ASEAN Schools Games (ASG) Singapore
 Contingent, I am honoured to lead such a talented and dedicated team with
 Mdm Rasidah Bte Rahim, Principal of Clementi Town Secondary School, as
