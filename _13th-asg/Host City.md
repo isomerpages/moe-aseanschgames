@@ -145,4 +145,19 @@ mountains while the Son Tra Peninsula gracefully embraces the sea.</p>
 seasons: a typhoon and wet season spanning from September to December,
 followed by a dry season from January to August. The city maintains an
 average annual temperature of approximately 26°C.</p>
+<p></p>
+<hr>
+<blockquote>
+<p>References:</p>
+</blockquote>
+<ol data-tight="true" class="tight">
+<li>
+<p>Britannica: <a href="http://www.britannica.com/place" rel="noopener noreferrer nofollow" target="_blank">www.britannica.com/place</a>
+</p>
+</li>
+<li>
+<p>Vietnam Tourism: <a href="https://vietnam.travel" rel="noopener noreferrer nofollow" target="_blank">https://vietnam.travel</a>
+</p>
+</li>
+</ol>
 <p>&nbsp;</p>
