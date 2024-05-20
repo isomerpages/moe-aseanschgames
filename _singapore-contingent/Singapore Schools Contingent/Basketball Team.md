@@ -14,15 +14,9 @@ third_nav_title: Singapore Schools Contingent
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball_Contingent.jpg">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p></p>
 </td>
 </tr>
 </tbody>
