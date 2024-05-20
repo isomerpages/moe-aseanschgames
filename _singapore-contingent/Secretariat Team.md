@@ -1,79 +1,103 @@
 ---
 title: Secretariat Team
 permalink: /secretariat-team/
-variant: tiptap
+variant: markdown
 description: ""
 ---
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secretariat Team/2.png">
+<style>
+/* Add mobile responsiveness */
+@media only screen and (max-width: 600px) {
+  .container {
+    width: 100%;
+  }
+  .column {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: center; /* Center align text for mobile view */
+  }
+  img {
+    max-width: 50%; /* Reduce image size by 50% for mobile view */
+    height: auto;
+    display: block;
+    margin: 0 auto; /* Center the image */
+  }
+  p {
+    text-align: center; /* Center align text for mobile view */
+  }
+}
+@media only screen and (min-width: 601px) {
+  .container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between; /* Add gap between columns */
+  }
+  .column {
+    width: 48%; /* Adjust column width for two columns */
+    margin-bottom: 20px; /* Add gap between rows */
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center align items for desktop view */
+  }
+  img {
+    max-width: 80%; /* Adjust image size for desktop view */
+    height: auto;
+    display: block;
+    margin: 0 auto; /* Center the image */
+  }
+  p {
+    text-align: center; /* Center align text for desktop view */
+    margin-top: 10px; /* Add space between image and text for desktop view */
+  }
+}
+</style>
+
+
+
+<div class="container">
+  <div class="column">
+    <div class="isomer-image-wrapper">
+      <img alt="" src="/images/Secretariat Team/2.png">
+    </div>
+    <p>Mr Kevin Teo<br>Contingent Manager</p>
+  </div>
+  <div class="column">
+    <div class="isomer-image-wrapper">
+      <img alt="" src="/images/Secretariat Team/3.png">
+    </div>
+    <p>Mr Leonard Kok<br>Assistant Contingent Manager</p>
+  </div>
+
+
+
+
+  <div class="column">
+    <div class="isomer-image-wrapper">
+      <img alt="" src="/images/Secretariat Team/7.png">
+    </div>
+    <p>Mr Thomas Yong<br>Secretariat</p>
+  </div>
+  <div class="column">
+    <div class="isomer-image-wrapper">
+      <img alt="" src="/images/Secretariat Team/5.png">
+    </div>
+    <p>Ms Foo Sze Ling<br>Secretariat</p>
+  </div>
+
+
+ <div class="column">
+    <div class="isomer-image-wrapper">
+      <img alt="" src="/images/Secretariat Team/1.png">
+    </div>
+    <p>Miss Darshana Naidu<br>Secretariat</p>
+  </div>
+  <div class="column">
+    <div class="isomer-image-wrapper">
+      <img alt="" src="/images/Secretariat Team/4.png">
+    </div>
+    <p>Miss Reena Wong<br>Secretariat</p>
+  </div>
+
+
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Mr Kevin Teo</strong>
-</p>
-<p><strong>Contingent Manager</strong>&nbsp;</p>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secretariat Team/3.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Mr Leonard Kok</strong>&nbsp;</p>
-<p><strong>Assistant Contingent Manager</strong>&nbsp;</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secretariat Team/7.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Thomas Yong</strong>&nbsp;</p>
-<p><strong>Secretariat</strong>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secretariat Team/5.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Foo Sze Ling</strong>&nbsp;</p>
-<p><strong>Secretariat</strong>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secretariat Team/1.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Miss Darshana Naidu</strong>&nbsp;</p>
-<p><strong>Secretariat</strong>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secretariat Team/4.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Miss Reena Wong</strong>&nbsp;</p>
-<p><strong>Secretariat</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
