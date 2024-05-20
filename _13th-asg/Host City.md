@@ -146,18 +146,16 @@ seasons: a typhoon and wet season spanning from September to December,
 followed by a dry season from January to August. The city maintains an
 average annual temperature of approximately 26°C.</p>
 <p></p>
-<hr>
-<blockquote>
-<p>References:</p>
+<hr><p>
+</p><blockquote style="margin: 0; padding: 10;">
+  References:
+  <ol style="margin: 0; padding: 0;" data-tight="true" class="tight">
+    <li style="font-size: x-small; margin: 0; padding: 0;">
+      Britannica: <a href="http://www.britannica.com/place" rel="noopener noreferrer nofollow" target="_blank">www.britannica.com/place</a>
+    </li>
+    <li style="font-size: x-small; margin: 0; padding: 0;">
+      Vietnam Tourism: <a href="https://vietnam.travel" rel="noopener noreferrer nofollow" target="_blank">https://vietnam.travel</a>
+    </li>
+  </ol>
 </blockquote>
-<ol data-tight="true" class="tight">
-<li>
-<p>Britannica: <a href="http://www.britannica.com/place" rel="noopener noreferrer nofollow" target="_blank">www.britannica.com/place</a>
-</p>
-</li>
-<li>
-<p>Vietnam Tourism: <a href="https://vietnam.travel" rel="noopener noreferrer nofollow" target="_blank">https://vietnam.travel</a>
-</p>
-</li>
-</ol>
 <p>&nbsp;</p>
