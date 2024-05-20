@@ -60,7 +60,7 @@ description: ""
     <div class="isomer-image-wrapper">
       <img alt="" src="/images/6.png">
     </div>
-    <p>Mrs Eugenia Lim<br>Divisional Director<br>Principal<br>Kranji Secondary School<br>Student Development Curriculum Division 2<br>Ministry of Education</p>
+    <p>Mrs Eugenia Lim<br>Divisional Director<br>Student Development Curriculum Division 2<br>Ministry of Education</p>
   </div>
  
   </div>
