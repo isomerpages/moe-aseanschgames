@@ -18,24 +18,24 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Vietnam1.jpg">
-</div>
+<td rowspan="1" colspan="2">
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Vietnam2.png">
-</div>
+<p></p>
+<p>Vietnam, also known as the Social Republic of Vietnam, is set to host
+the 13th ASEAN School Games. Positioned like the letter "S" on the eastern
+side of the Indochinese peninsula, Vietnam features predominantly mountainous
+and hilly terrain, with a coastline extending over 3,000 kilometers. Key
+economic sectors in Vietnam encompass infrastructure, manufacturing, retail,
+and the food and agriculture industries.</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>The Social Republic of Vietnam, or Vietnam, will be hosting the 13<sup>th</sup> ASEAN
-School Games. Vietnam, a strip of land shaped like the letter “S”, lies
-on the eastern part of the Indochinese peninsula. Three quarters of its
-territory comprise mountains and hills and it has over 3,000 km long coastline.
-Some key industries in Vietnam include infrastructure, manufacturing, retail,
-and food and agriculture.</p>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PXL_20220604_142216220_NIGHT.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -47,15 +47,12 @@ and food and agriculture.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VietnamFlag1.jpg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
-<p>The Vietnam flag was officially adopted on 23 November 1940.
-<br>The red background symbolises revolution and bloodshed. The golden star
-represents the five main classes in Vietnamese society—intellectuals, farmers,
-workers, entrepreneurs, and soldiers.</p>
+<p>Vietnam officially adopted its flag on November 23, 1940. The red backdrop
+signifies revolution and sacrifice, while the golden star symbolizes the
+five primary societal classes in Vietnam: intellectuals, farmers, workers,
+entrepreneurs, and soldiers.</p>
 </td>
 </tr>
 <tr>
@@ -68,9 +65,6 @@ workers, entrepreneurs, and soldiers.</p>
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VietnamFacts.jpg">
-</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -135,19 +129,20 @@ workers, entrepreneurs, and soldiers.</p>
 </tbody>
 </table>
 <h4>About Da Nang</h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/AboutDaNang.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20220606_105252.jpg">
 </div>
-<p>Da Nang is the fifth-largest city in Vietnam by municipal population.
-Da Nang city lies in the Midlands of Vietnam, from which Hanoi capitol
-in the north and Ho Chi Minh city in the south are almost equally spaced.
-A coastal city with a shoreline, extending many kilometres, it is one of
-Vietnam's most important port cities.</p>
-<p>Not only is the city famous for its beaches, Da Nang’s charm lays in its
-geographical position: leaning against the majestic Truong Son mountains
-(or the Annamite Range), as well as having Son Tra Peninsula embracing
-the sea.</p>
-<p>Da Nang has a tropical monsoon climate with two seasons: a typhoon and
-wet season from September to December and a dry season from January to
-August. Temperatures have an annual average of around 26 °C.</p>
+<p>Da Nang ranks as the fifth-largest city in Vietnam based on municipal
+population. Positioned within the Midlands of Vietnam, it sits at a nearly
+equal distance between the northern capital of Hanoi and the southern hub
+of Ho Chi Minh City. This coastal metropolis boasts an extensive shoreline,
+making it a pivotal port city in Vietnam.</p>
+<p>Renowned not only for its picturesque beaches but also for its strategic
+geographical location, Da Nang is nestled against the grand Truong Son
+mountains while the Son Tra Peninsula gracefully embraces the sea.</p>
+<p>Da Nang experiences a tropical monsoon climate characterised by two distinct
+seasons: a typhoon and wet season spanning from September to December,
+followed by a dry season from January to August. The city maintains an
+average annual temperature of approximately 26°C.</p>
 <p>&nbsp;</p>
