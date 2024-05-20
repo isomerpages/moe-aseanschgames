@@ -76,7 +76,7 @@ description: ""
     <div class="isomer-image-wrapper">
       <img alt="" src="/images/Technical Committee/Siva_resized_B.png">
     </div>
-    <p>Mr V Siva Kumar<br>Member, ASSC Technical Committee<br><br>Deputy Director <br>
+    <p>Mr V Siva Kumar<br>Member, ASSC Technical Committee<br>Deputy Director <br>
 Physical, Sports &amp; Outdoor Education Branch (Sports Education)</p>
   </div>
   <div class="column">
