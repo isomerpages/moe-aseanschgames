@@ -58,7 +58,7 @@ description: ""
 <div class="container">
   <div class="column">
     <div class="isomer-image-wrapper">
-      <img alt="" src="/images/Technical Committee/Krishnan_Aravinthan.png">
+      <img alt="" src="/images/Technical Committee/Mr_Ari.png">
     </div>
     <p>Mr Krishnan Aravinthan<br>Chairman, ASSC Technical Committee<br>Director<br>Physical, Sports &amp; Outdoor Education Branch<br>Student Development Curriculum Division 2</p>
   </div>
