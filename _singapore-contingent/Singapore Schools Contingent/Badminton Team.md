@@ -30,6 +30,5 @@ Ms Ng Yen Yen Jaclyn <em>(Coach)</em>, Mr Tan Kee Chong Richard&nbsp;<em>(Team M
 <p><em>Third row (left to right):</em> Wong Zee Hern, Tee Kai Ze, Hans Yeow
 Meng Choon, Jayden Fan Ze Lin, Tan Wei Da, Mark Wong Kai Ji, Chew Jie Rui,
 Jorelle Yak Han Rui</p>
-<p><em>Not in the picture:</em> Ms Tan Li Si <em>(Coach), </em>Li Zheng Hong</p>
 <p>&nbsp;<em>Not in the picture:</em> Ms Tan Li Si <em>(Coach), </em>Li Zheng
 Hong</p>
