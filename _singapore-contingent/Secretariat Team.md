@@ -4,100 +4,43 @@ permalink: /secretariat-team/
 variant: markdown
 description: ""
 ---
-<style>
-/* Add mobile responsiveness */
-@media only screen and (max-width: 600px) {
-  .container {
-    width: 100%;
-  }
-  .column {
-    width: 100%;
-    padding: 10px;
-    box-sizing: border-box;
-    text-align: center; /* Center align text for mobile view */
-  }
-  img {
-    max-width: 50%; /* Reduce image size by 50% for mobile view */
-    height: auto;
-    display: block;
-    margin: 0 auto; /* Center the image */
-  }
-  p {
-    text-align: center; /* Center align text for mobile view */
-  }
-}
-@media only screen and (min-width: 601px) {
-  .container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between; /* Add gap between columns */
-  }
-  .column {
-    width: 48%; /* Adjust column width for two columns */
-    margin-bottom: 20px; /* Add gap between rows */
-    box-sizing: border-box;
-    display: flex;
-    flex-direction: column;
-    align-items: center; /* Center align items for desktop view */
-  }
-  img {
-    max-width: 80%; /* Adjust image size for desktop view */
-    height: auto;
-    display: block;
-    margin: 0 auto; /* Center the image */
-  }
-  p {
-    text-align: center; /* Center align text for desktop view */
-    margin-top: 10px; /* Add space between image and text for desktop view */
-  }
-}
-</style>
+![](/images/Sceretariat_Team.jpg)
+         
 
-
-
-<div class="container">
-  <div class="column">
-    <div class="isomer-image-wrapper">
-      <img alt="" src="/images/Secretariat Team/2.png">
-    </div>
-    <p>Mr Kevin Teo<br>Contingent Manager</p>
-  </div>
-  <div class="column">
-    <div class="isomer-image-wrapper">
-      <img alt="" src="/images/Secretariat Team/3.png">
-    </div>
-    <p>Mr Leonard Kok<br>Assistant Contingent Manager</p>
-  </div>
-
-
-
-
-  <div class="column">
-    <div class="isomer-image-wrapper">
-      <img alt="" src="/images/Secretariat Team/7.png">
-    </div>
-    <p>Mr Thomas Yong<br>Secretariat</p>
-  </div>
-  <div class="column">
-    <div class="isomer-image-wrapper">
-      <img alt="" src="/images/Secretariat Team/5.png">
-    </div>
-    <p>Ms Foo Sze Ling<br>Secretariat</p>
-  </div>
-
-
- <div class="column">
-    <div class="isomer-image-wrapper">
-      <img alt="" src="/images/Secretariat Team/1.png">
-    </div>
-    <p>Miss Darshana Naidu<br>Secretariat</p>
-  </div>
-  <div class="column">
-    <div class="isomer-image-wrapper">
-      <img alt="" src="/images/Secretariat Team/4.png">
-    </div>
-    <p>Miss Reena Wong<br>Secretariat</p>
-  </div>
-
-
-</div>
+<table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-table-lspace:9.0pt;margin-left:6.75pt;mso-table-rspace:
+ 9.0pt;margin-right:6.75pt;mso-table-anchor-vertical:paragraph;mso-table-anchor-horizontal:
+ margin;mso-table-left:center;mso-table-top:28.65pt;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" align="left" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes;
+  height:36.2pt"><td style="width:389.8pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:36.2pt" valign="top" width="520"><p style="mso-element:frame;mso-element-frame-hspace:9.0pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  margin;mso-element-left:center;mso-element-top:28.65pt;mso-height-rule:exactly" class="MsoNoSpacing"><i><span style="font-size:12.0pt;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+  minor-latin;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
+  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+  EN-GB;mso-bidi-font-weight:bold" lang="EN-GB">From left to right: </span></i><span style="font-size:12.0pt;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+  minor-latin;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
+  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+  EN-GB;mso-bidi-font-weight:bold" lang="EN-GB">Mr Kevin Teo </span><i><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:EN-GB;mso-bidi-font-weight:
+  bold" lang="EN-GB">(Contingent Manager), </span></i><span style="font-size:
+  12.0pt;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:EN-GB;mso-bidi-font-weight:
+  bold" lang="EN-GB">Mr Leonard Kok </span><i><span style="mso-ascii-font-family:
+  Calibri;mso-ascii-theme-font:minor-latin;mso-hansi-font-family:Calibri;
+  mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold" lang="EN-GB">(Assistant Contingent Manager), </span></i><span style="font-size:12.0pt;
+  mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin;mso-ansi-language:EN-GB;mso-bidi-font-weight:
+  bold" lang="EN-GB">Miss Darshana Naidu</span><span style="font-size:12.0pt;
+  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
+  EN-GB;mso-bidi-font-weight:bold" lang="EN-GB">, </span><span style="font-size:
+  12.0pt;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:EN-GB;mso-bidi-font-weight:
+  bold" lang="EN-GB">Ms Foo Sze Ling, Miss Reena Wong, Mr Thomas Yong</span><b style="mso-bidi-font-weight:normal"><span style="font-size:12.0pt;
+  mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin;mso-ansi-language:EN-GB" lang="EN-GB"></span></b></p></td></tr></tbody></table>
