@@ -14,7 +14,12 @@ one yearly major sporting event in a ‘Games’ format.</p>
 <p></p>
 <p>Subsequent years, the countries took turns to host the ASEAN Schools Games
 as follows:</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -96,7 +101,7 @@ as follows:</p>
 </tbody>
 </table>
 <p>This year, the 13th ASEAN Schools Games will be held in Da Nang, Vietnam
-from 31 May to June 2024.</p>
+from 31 May to 9 June 2024.</p>
 <p></p>
 <p>The objectives of ASG are as follows:</p>
 <ul data-tight="true" class="tight">
