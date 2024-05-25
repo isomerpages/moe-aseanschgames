@@ -35,12 +35,12 @@ description: ""
 <tr>
 <th rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="https://www.facebook.com/moesingapore/"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/1.png"></a>
-<p>MOE Facebook</p>
-</th>
+<p></p><center>MOE Facebook<p></p>
+</center></th>
 <th rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="https://www.instagram.com/moesingapore/?hl=en"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2.png"></a>
-<p>MOE Instagram</p>
-</th>
+<p></p><center>MOE Instagram<p></p>
+</center></th>
 </tr>
 </tbody>
 </table>
