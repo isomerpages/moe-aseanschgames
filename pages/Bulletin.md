@@ -23,7 +23,7 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/100044411140197/posts/1011319010358461/?mibextid=WC7FNe&amp;rdid=pQ8y1a7pwUXTrTwE" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/438119269_1011318943691801_1348705281321403633_n.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Maliki Osman, Second Minister for Education, graces the 13th ASG Send-off Ceremony</div><div class="isomer-card-link"> </div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/100044411140197/posts/1011319010358461/?mibextid=WC7FNe&amp;rdid=pQ8y1a7pwUXTrTwE" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Card1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Maliki Osman, Second Minister for Education, graces the 13th ASG Send-off Ceremony</div><div class="isomer-card-link"> </div></div></a>
 </div>
 <p></p>
 <table style="minWidth: 50px">
