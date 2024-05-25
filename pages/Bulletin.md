@@ -5,8 +5,24 @@ variant: tiptap
 description: ""
 ---
 <h1>Media Articles</h1>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21 May 2024</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.moe.gov.sg/news/press-releases/20240521-singapore-student-athletes-gear-up-for-asean-schools-games-2024-in-vietnam" rel="noopener noreferrer nofollow" target="_blank">Singapore Student Athletes Gear Up for ASEAN Schools Games 2024 in Vietnam</a>
 </p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
