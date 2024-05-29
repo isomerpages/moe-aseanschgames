@@ -62,25 +62,26 @@ description: ""
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 50px">
+<br><br><table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
+
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="https://www.facebook.com/moesingapore/"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/1.png"></a>
 <p></p>
-<p>MOE Facebook</p>
+<p></p><center>MOE Facebook<p></p>
 <p></p>
-</th>
+</center></th>
 <th rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="https://www.instagram.com/moesingapore/?hl=en"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2.png"></a>
 <p></p>
-<p>MOE Instagram</p>
+<p></p><center>MOE Instagram<p></p>
 <p></p>
-</th>
+</center></th>
 </tr>
 </tbody>
 </table>
