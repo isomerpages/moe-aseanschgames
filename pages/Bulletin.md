@@ -23,7 +23,7 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/100044411140197/posts/1011319010358461/?mibextid=WC7FNe&amp;rdid=pQ8y1a7pwUXTrTwE" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="instagram dr maliki osman" src="/images/Card1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Maliki Osman, Second Minister for Education, graces the 13th ASG Send-off Ceremony</div><div class="isomer-card-link"> </div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/100044411140197/posts/1011319010358461/?mibextid=WC7FNe&amp;rdid=pQ8y1a7pwUXTrTwE" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="instagram dr maliki osman" src="/images/Card1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Maliki Osman, Second Minister for Education, graces the 13th ASG Send-off Ceremony</div><div class="isomer-card-link"></div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.instagram.com/reel/C7taIIXOsBY/?igsh=bzFlazJ3dTd3YnJn" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -37,11 +37,8 @@ description: ""
 </a>
 </div>
 <p><strong>Catch the ASEAN Schools Games Live!</strong>
-</p>
-<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/live/SroZqHsLGsk?si=nSKhUnxOuQJ0b6Bc"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/download__1_.jpg"></a>
-<a class="isomer-image-wrapper" href="https://www.youtube.com/live/7ci6dfg4-xI?si=53geHxvewpzdjGmY">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/download.jpg">
-</a>
+</p><a class="isomer-image-wrapper" href="https://www.youtube.com/live/SroZqHsLGsk?si=nSKhUnxOuQJ0b6Bc"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/download__1_.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/live/7ci6dfg4-xI?si=53geHxvewpzdjGmY"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/download.jpg"></a>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
