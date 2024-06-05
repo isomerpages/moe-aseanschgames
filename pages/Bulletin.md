@@ -76,6 +76,7 @@ description: ""
 </tr>
 </tbody>
 </table>
+<h4><strong>Official ASG Facebook page</strong></h4><a class="isomer-image-wrapper" href="/https://www.facebook.com/asg.danang.2024"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/13th_ASG_FB.png"></a>
 <p>
 <br>
 </p>
