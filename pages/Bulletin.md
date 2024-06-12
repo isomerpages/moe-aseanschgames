@@ -20,6 +20,15 @@ description: ""
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9 June 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.moe.gov.sg/news/press-releases/20240609-closing-of-13th-asean-schools-games-singapore-student-athletes-displayed-tenacity-and-sportsmanship" rel="noopener noreferrer nofollow" target="_blank">Closing of 13th ASEAN Schools Games: Singapore Student Athletes Displayed Tenacity and Sportsmanship</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
