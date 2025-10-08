@@ -8,3 +8,7 @@ links:
     collection: singapore-contingent
   - title: Bulletin
     url: /bulletin/
+  - title: Archives
+    collection: 13th-asg
+  - title: Archives
+    resource_room: true
