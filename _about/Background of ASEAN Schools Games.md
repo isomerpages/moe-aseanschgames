@@ -96,12 +96,17 @@ as follows:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/2024 ASG Logo &amp; Mascot/2024_ASG_Logo_resized.jpg">
+</div>
 </td>
 </tr>
 </tbody>
 </table>
-<p>This year, the 13th ASEAN Schools Games will be held in Da Nang, Vietnam
-from 31 May to 9 June 2024.</p>
+<p></p>
+<p>This year, the 14th ASEAN Schools Games will be held in Bandar Seri Begawan,
+Brunei from 19 to 29 November 2025.</p>
 <p></p>
 <p>The objectives of ASG are as follows:</p>
 <ul data-tight="true" class="tight">
