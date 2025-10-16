@@ -2,6 +2,7 @@ collections:
   singapore-contingent:
     output: true
     order:
+      - Media Team.md
       - Secretariat Team.md
       - ASSC Technical Committee.md
       - MOE Senior Officials.md
