@@ -2,6 +2,7 @@ collections:
   archives:
     output: true
     order:
+      - 13th ASG/Basketball Team.md
       - 13th ASG/Badminton Team.md
       - 13th ASG/Athletics Team.md
       - 13th ASG/.keep
