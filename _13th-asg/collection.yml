@@ -2,11 +2,11 @@ collections:
   13th-asg:
     output: true
     order:
-      - Singapore Schools Contingent/Swimming Team.md
-      - Singapore Schools Contingent/Basketball Team.md
-      - Singapore Schools Contingent/Badminton Team.md
-      - Singapore Schools Contingent/Athletics Team.md
       - Singapore Schools Contingent/.keep
+      - Singapore Schools Contingent/Athletics Team.md
+      - Singapore Schools Contingent/Badminton Team.md
+      - Singapore Schools Contingent/Basketball Team.md
+      - Singapore Schools Contingent/Swimming Team.md
       - Media Team.md
       - Secretariat Team.md
       - ASSC Technical Committee.md
