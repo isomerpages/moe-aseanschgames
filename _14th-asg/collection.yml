@@ -1,4 +1,5 @@
 collections:
   14th-asg:
     output: true
-    order: []
+    order:
+      - Message from SSSC Chairperson.md
