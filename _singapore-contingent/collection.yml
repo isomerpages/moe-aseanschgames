@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Singapore Schools Contingent/.keep
-      - Singapore Schools Contingent/Badminton Team.md
       - Singapore Schools Contingent/Basketball Team.md
       - Singapore Schools Contingent/Swimming Team.md
