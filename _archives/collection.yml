@@ -2,6 +2,7 @@ collections:
   archives:
     output: true
     order:
+      - 13th ASG/Athletics Team.md
       - 13th ASG/.keep
       - 13th ASG/Message from SSSC Chairperson.md
       - 13th ASG/Message from CdM, 13th ASG.md
