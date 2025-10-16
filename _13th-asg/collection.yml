@@ -2,6 +2,7 @@ collections:
   13th-asg:
     output: true
     order:
+      - Singapore Schools Contingent/.keep
       - Swimming Team.md
       - Basketball Team.md
       - Badminton Team.md
