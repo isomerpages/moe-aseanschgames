@@ -4,4 +4,3 @@ permalink: /message-from-sssc-chairperson/
 variant: markdown
 description: ""
 ---
-<p></p>
