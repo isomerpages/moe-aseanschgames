@@ -2,8 +2,8 @@ collections:
   14th-asg:
     output: true
     order:
-      - Host City.md
-      - Sporting Oath.md
       - Message from SSSC Chairperson.md
       - Message from CdM, 14th ASG.md
       - Logo.md
+      - Sporting Oath.md
+      - Host City.md
