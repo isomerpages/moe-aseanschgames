@@ -1,5 +1,5 @@
 collections:
-  13th-asg:
+  archives:
     output: true
     order:
       - Message from SSSC Chairperson.md
