@@ -2,6 +2,7 @@ collections:
   14th-asg:
     output: true
     order:
+      - Message from SSSC Chairperson New.md
       - Message from SSSC Chairperson.md
       - Message from CdM, 14th ASG.md
       - Logo.md
