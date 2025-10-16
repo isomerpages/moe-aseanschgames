@@ -2,17 +2,17 @@ collections:
   archives:
     output: true
     order:
-      - 13th ASG/Media Team.md
-      - 13th ASG/Secretariat Team.md
-      - 13th ASG/ASSC Technical Committee.md
-      - 13th ASG/Chef de Mission and Deputy Chef de Mission.md
+      - 13th ASG/.keep
+      - 13th ASG/Message from SSSC Chairperson.md
+      - 13th ASG/Message from CdM, 13th ASG.md
+      - 13th ASG/Logo & Mascot.md
       - 13th ASG/Sporting Oath.md
       - 13th ASG/Host City.md
       - 13th ASG/MOE Senior Officials.md
-      - 13th ASG/Logo & Mascot.md
-      - 13th ASG/Message from CdM, 13th ASG.md
-      - 13th ASG/Message from SSSC Chairperson.md
-      - 13th ASG/.keep
+      - 13th ASG/Chef de Mission and Deputy Chef de Mission.md
+      - 13th ASG/ASSC Technical Committee.md
+      - 13th ASG/Secretariat Team.md
+      - 13th ASG/Media Team.md
       - Singapore Schools Contingent/.keep
       - Singapore Schools Contingent/Athletics Team.md
       - Singapore Schools Contingent/Badminton Team.md
