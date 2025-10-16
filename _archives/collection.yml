@@ -2,10 +2,6 @@ collections:
   archives:
     output: true
     order:
-      - 13th ASG/Swimming Team.md
-      - 13th ASG/Basketball Team.md
-      - 13th ASG/Badminton Team.md
-      - 13th ASG/Athletics Team.md
       - 13th ASG/.keep
       - 13th ASG/Message from SSSC Chairperson.md
       - 13th ASG/Message from CdM, 13th ASG.md
@@ -17,3 +13,7 @@ collections:
       - 13th ASG/ASSC Technical Committee.md
       - 13th ASG/Secretariat Team.md
       - 13th ASG/Media Team.md
+      - 13th ASG/Athletics Team.md
+      - 13th ASG/Badminton Team.md
+      - 13th ASG/Basketball Team.md
+      - 13th ASG/Swimming Team.md
