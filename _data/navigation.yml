@@ -2,9 +2,9 @@ logo: /images/ASG_Agency_Logo.png
 links:
   - title: About
     collection: about
-  - title: Archives
-    collection: archives
-  - title: SG Contingent
-    collection: singapore-contingent
+  - title: 14th ASG
+    collection: 14th-asg
   - title: Bulletin
     url: /bulletin/
+  - title: Archives
+    collection: archives
