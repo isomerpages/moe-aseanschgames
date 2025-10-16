@@ -2,6 +2,7 @@ collections:
   13th-asg:
     output: true
     order:
+      - Chef de Mission and Deputy Chef de Mission.md
       - MOE Senior Officials.md
       - Message from SSSC Chairperson.md
       - Message from CdM, 13th ASG.md
