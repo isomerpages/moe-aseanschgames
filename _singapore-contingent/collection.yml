@@ -2,4 +2,5 @@ collections:
   singapore-contingent:
     output: true
     order:
+      - MOE Senior Officials.md
       - Singapore Schools Contingent/.keep
