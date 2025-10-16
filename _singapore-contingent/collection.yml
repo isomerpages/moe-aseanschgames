@@ -2,6 +2,6 @@ collections:
   singapore-contingent:
     output: true
     order:
-      - Chef de Mission and Deputy Chef de Mission.md
       - MOE Senior Officials.md
+      - Chef de Mission and Deputy Chef de Mission.md
       - Singapore Schools Contingent/.keep
