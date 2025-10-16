@@ -2,6 +2,7 @@ collections:
   archives:
     output: true
     order:
+      - 13th ASG/ASSC Technical Committee.md
       - 13th ASG/Chef de Mission and Deputy Chef de Mission.md
       - 13th ASG/Sporting Oath.md
       - 13th ASG/Host City.md
