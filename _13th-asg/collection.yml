@@ -2,6 +2,7 @@ collections:
   13th-asg:
     output: true
     order:
+      - Media Team.md
       - Secretariat Team.md
       - ASSC Technical Committee.md
       - Chef de Mission and Deputy Chef de Mission.md
