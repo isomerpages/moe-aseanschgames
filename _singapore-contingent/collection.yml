@@ -2,7 +2,6 @@ collections:
   singapore-contingent:
     output: true
     order:
-      - ASSC Technical Committee.md
       - Secretariat Team.md
       - Media Team.md
       - Singapore Schools Contingent/.keep
