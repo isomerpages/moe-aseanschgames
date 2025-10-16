@@ -97,9 +97,6 @@ as follows:</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/2024 ASG Logo &amp; Mascot/2024_ASG_Logo_resized.jpg">
-</div>
 </td>
 </tr>
 </tbody>
