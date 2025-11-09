@@ -1,29 +1,40 @@
 ---
 title: Message from CdM, 14th ASG
 permalink: /14th-asg/message-from-cdm-14th-asg/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 25%; padding: 15px" height="auto" width="100%" alt="" align="left" src="/images/CDM/1.jpg">
-</div><p>
-As Chef de Mission of the 13<sup>th</sup> ASEAN Schools Games (ASG) Singapore
-Contingent, I am honoured to lead such a talented and dedicated team with
-Mdm Rasidah Bte Rahim, Principal of Clementi Town Secondary School, as
-the Deputy Chef de Mission.&nbsp;&nbsp;</p>
-<p>The SSST comprises 102 student-athletes from various schools who have
-been training together to give their best. To all the student-athletes
-representing the SSST in the four sports, I offer my heartiest congratulation.
-You have all worked incredibly hard to get to this point, and I am confident
-that you will represent Singapore with pride. I wish you all the best for
-the competition, and I look forward to seeing you compete with passion,
-determination and sportsmanship.&nbsp;</p>
-<p>This year, the Singapore Contingent will comprise 37 dedicated officials
-supporting in the respective roles as secretariat, team managers, coaches,
-medical staff, and media personnel. They all play significant roles in
-guiding and caring for the student-athletes. I would like to extend my
-deepest appreciation to all for their dedicated service.&nbsp;&nbsp;</p>
-<p>I wish the team all the best and let’s look forward to a memorable and
-enriching experience.&nbsp;</p>
+<img style="width: 25%; padding: 15px" height="auto" width="100%" alt="" src="/images/CDM/1.jpg">
+</div>
+<p>It is my honour and privilege to lead the Singapore Schools Sports Team
+(SSST) at the 14th ASEAN Schools Games (ASG), together with my Deputy Chef
+de Mission, Mr Koh Yiak Kheng Leonard, Principal of Marsiling Secondary
+School.</p>
+<p>The ASG aims to promote ASEAN solidarity among our youth through school
+sports, to provide opportunities for student-athletes to benchmark their
+sporting talents within the ASEAN region, and to foster cross-cultural
+understanding and friendships among ASEAN nations. These ideals remind
+us that the Games are not only about winning medals but also about strengthening
+bonds and building bridges across borders.</p>
+<p>This year, our Singapore contingent comprises 130 student-athletes from
+various schools, representing seven sports—an encouraging increase from
+last year’s four. Congratulations to each and every student athlete on
+your selection. It is a rare and proud honour to don the national colours
+and represent our country. You have earned this opportunity through your
+dedication, resilience, and hard work, balancing intense training with
+your school commitments.</p>
+<p>Supporting our athletes is a team of 43 dedicated officials, including
+secretariat members, team managers, coaches, medical staff, and media personnel,
+all committed to ensuring that every athlete is well-supported and able
+to perform at their best.</p>
+<p>As you compete, remember that the ASG is not only about sporting excellence
+but also about the spirit of friendship, respect, and unity. Compete with
+integrity, give your best, and uphold the values of sportsmanship and teamwork.
+Above all, carry yourselves as proud ambassadors of Singapore—on and off
+the field.</p>
+<p>Together, let us embody the spirit of ASEAN solidarity and make Singapore
+proud.</p>
+<p>Go Team Singapore!</p>
 <p><strong>Mdm Rasidah Bte Rahim<br>Chef de Mission<br>14th ASG Singapore Schools Sports Team&nbsp;</strong>
 </p>
