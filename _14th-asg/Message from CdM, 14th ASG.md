@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CDM/2.jpg">
+<img style="width: 25%; padding:15px" height="auto" width="100%" alt="" align="left" src="/images/CDM/2.jpg">
 </div>
 <p>It is my honour and privilege to lead the Singapore Schools Sports Team
 (SSST) at the 14th ASEAN Schools Games (ASG), together with my Deputy Chef
