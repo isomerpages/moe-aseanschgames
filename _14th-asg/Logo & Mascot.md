@@ -4,7 +4,7 @@ permalink: /14th-asg/logo-mascot/
 variant: tiptap
 description: ""
 ---
-<h4><strong>14<sup>th</sup> ASEAN SCHOOLS GAMES BANDAR SERI BEGAWAN, BRUNEI –</strong>&nbsp;<strong>LOGO &amp; MASCOT</strong>&nbsp;</h4>
+<h4><strong>14<sup>th</sup> ASEAN SCHOOLS GAMES BANDAR SERI BEGAWAN, BRUNEI –</strong>&nbsp;<strong>LOGO &amp; SLOGAN</strong></h4>
 <p></p>
 <h4>Logo</h4>
 <p></p>
@@ -20,5 +20,10 @@ journey of growth, progress and success, represented by the three primary
 colour scheme of ASG14.</p>
 <h4>Slogan</h4>
 <p></p>
-<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 ASG/Logo &amp; Mascot/14th_ASG_Slogan.png">
+</div>
+<p>The ASG14 2025 motto is adapted from a <em>permabalan</em> of proverbs, <em>“Berkarih, Bejarih, Belurih.”</em>&nbsp;It
+is a unique feature of the local Brunei Malay Language which can be loosely
+translated as “Dream, Strive, Achieve.”&nbsp;</p>
 <p></p>
