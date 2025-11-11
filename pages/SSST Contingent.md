@@ -54,9 +54,8 @@ description: ""
 </table>
 <p><strong><u>Singapore Schools Secretariat Team</u></strong>
 </p>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -72,10 +71,6 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Branch / Unit</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>Secretariat Advisor in ASG</strong>
 </p>
 </td>
@@ -86,9 +81,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Leonard Kok​</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>PSOEB&nbsp;/ SE​</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -102,9 +94,6 @@ description: ""
 <p>Mr John Ng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>PSOEB / SE​</p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -114,9 +103,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr V Siva Kumar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>PSOEB / SE​</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -130,9 +116,6 @@ description: ""
 <p>Ms Alice Koh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>PSOEB / SE​</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Basketball/ Netball/ Wushu</p>
 </td>
 </tr>
@@ -142,9 +125,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohamed Razif Abdul Hamed</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>PSOEB / SE​</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Athletics/ Sepaktakraw</p>
@@ -158,9 +138,6 @@ description: ""
 <p>Ms Leena So</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>PSOEB / NSGO​</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Badminton/ Swimming</p>
 </td>
 </tr>
@@ -170,9 +147,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Christopher Lee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CEG</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -186,9 +160,6 @@ description: ""
 <p>Ms Jacquelyn Ng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CEG</p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -198,9 +169,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Dr Benny Loo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>KKH</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -214,9 +182,6 @@ description: ""
 <p>Dr Toh Siao Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>KKH</p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -226,9 +191,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Loh Wan Yuan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SGH</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
