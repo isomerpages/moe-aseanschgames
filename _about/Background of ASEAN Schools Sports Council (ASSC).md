@@ -10,10 +10,9 @@ description: ""
 </div>
 <p>The ASEAN Schools Sports Council (ASSC), formed in 1978, is an apolitical
 regional organization that promotes sports amongst the ten member countries
-- Brunei Darussalam, Cambodia, Indonesia, Lao PDR, Malaysia, Myanmar<sup>1</sup>,
-Philippines, Singapore, Thailand, and Vietnam.&nbsp; The aim of the Council
-is to strengthen international ties, appreciation and understanding among
-ASEAN member nations.&nbsp;&nbsp;</p>
+- Brunei Darussalam, Cambodia, Indonesia, Lao PDR, Malaysia, Myanmar, Philippines,
+Singapore, Thailand, and Vietnam.&nbsp; The aim of the Council is to strengthen
+international ties, appreciation and understanding among ASEAN member nations.&nbsp;&nbsp;</p>
 <p>The positions of ASSC President and the nine Vice-Presidents (i.e. one
 from each member country) are held at Ministerial level.&nbsp; Currently,
 Lao PDR holds the Presidency of ASSC and will complete its two-year term
