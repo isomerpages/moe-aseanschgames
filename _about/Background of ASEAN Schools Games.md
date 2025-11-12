@@ -11,15 +11,12 @@ to coordinate and champion sporting programmes and activities in ASEAN
 countries. In 2008, the ASSC members agreed to adopt a ‘SEA’ Games type
 format (i.e. as a multi-sport event) for its competitions starting with
 the 1<sup>st </sup>ASEAN Schools Games (ASG) in 2009.</p>
-<p>The 1<sup>st </sup>ASEAN Schools Games (2009), with ten sports<a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank">[1]</a>, was hosted by
-Thailand in Suphanburi. Prior to this, the ASSC scheduled four to five
+<p>The 1<sup>st </sup>ASEAN Schools Games (2009), with ten sports, was hosted
+by Thailand in Suphanburi. Prior to this, the ASSC scheduled four to five
 single satellite sports championships per year hosted by various member
 countries.</p>
 <p>The schedule of hosting countries for the multi-games ASG is planned until
 2025:</p>
-<p>
-<br>
-</p>
 <hr>
 <table style="minWidth: 75px">
 <colgroup>
