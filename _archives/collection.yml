@@ -2,13 +2,13 @@ collections:
   archives:
     output: true
     order:
-      - 13TH ASG/Bulletin.md
       - 13TH ASG/.keep
       - 13TH ASG/Message from SSSC Chairperson.md
       - 13TH ASG/Message from CdM, 13th ASG.md
       - 13TH ASG/Logo & Mascot.md
       - 13TH ASG/Sporting Oath.md
       - 13TH ASG/Host City.md
+      - 13TH ASG/Bulletin.md
       - 13TH ASG/MOE Senior Officials.md
       - 13TH ASG/Chef de Mission and Deputy Chef de Mission.md
       - 13TH ASG/ASSC Technical Committee.md
