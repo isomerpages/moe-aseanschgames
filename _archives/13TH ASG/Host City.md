@@ -1,8 +1,9 @@
 ---
 title: Host City
-permalink: /host-city/
+permalink: /13th-asg/host-city/
 variant: markdown
 description: ""
+third_nav_title: 13TH ASG
 ---
 <h3>About the Host Country - Vietnam</h3>
 <table style="minWidth: 50px">

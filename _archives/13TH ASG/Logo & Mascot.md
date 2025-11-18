@@ -1,8 +1,9 @@
 ---
 title: Logo & Mascot
-permalink: /logo-mascot/
+permalink: /13th-asg/logo-mascot/
 variant: tiptap
 description: ""
+third_nav_title: 13TH ASG
 ---
 <h4><strong>13<sup>th</sup> ASEAN SCHOOLS GAMES DA NANG, VIETNAM –</strong>&nbsp;<strong>LOGO &amp; MASCOT</strong>&nbsp;</h4>
 <p></p>

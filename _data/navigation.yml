@@ -1,10 +1,12 @@
-logo: /images/ASG_Agency_Logo.png
+logo: /images/2025 ASG/Logo & Mascot/14th_ASG_Logo_W_Slogan.png
 links:
   - title: About
     collection: about
-  - title: 13th ASG
-    collection: 13th-asg
-  - title: SG Contingent
-    collection: singapore-contingent
+  - title: 14TH ASG
+    collection: 14th-asg
+  - title: SSST Contingent
+    url: /ssst-contingent/
   - title: Bulletin
-    url: /bulletin/
+    url: /14th-asg/bulletin/
+  - title: Archives
+    collection: archives

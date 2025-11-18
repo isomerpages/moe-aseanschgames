@@ -1,8 +1,9 @@
 ---
 title: Message from SSSC Chairperson
-permalink: /message-from-sssc-chairperson/
+permalink: /13th-asg/message-from-sssc-chairperson/
 variant: markdown
 description: ""
+third_nav_title: 13TH ASG
 ---
 <div class="isomer-image-wrapper">
 

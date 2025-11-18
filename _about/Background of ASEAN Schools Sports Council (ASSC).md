@@ -8,25 +8,19 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ASSC_Logo.png">
 </div>
-<p>Prior to 1978, four ASEAN countries comprising Indonesia, Thailand, Singapore
-and Malaysia met and discussed the formation of a sports body that would
-govern all sports programmes and activities for school children of the
-ASEAN countries.</p>
-<p></p>
-<p>In April 1978, the ASSC was formed during a meeting in Jakarta, Indonesia.
-The founding members of the ASSC are Indonesia, Malaysia, Singapore and
-Thailand. The current 109-member ASSC includes Brunei Darussalam, Cambodia,
-Laos, Philippines, and Vietnam and Myanmar.</p>
-<p></p>
-<p>In 2004, an ASSC secretariat was formed. Each member country was to preside
-over the chairmanship of the Games on two-year terms. It was decided during
-a Technical Committee Meeting in Malaysia in 2007 that the ASSC sports
-calendar activities will be held yearly.</p>
-<p></p>
-<p>In 2008, the ASSC celebrated its 30th Anniversary at the ASEAN Schools
-Sports Council 58th Technical Committee Meeting and 45th Management Committee
-Meeting in Cebu, Philippines. This event saw the merging of the ASSC sports
-activities calendar into one annual games carnival, the ASEAN Schools Games
-(ASG).</p>
+<p>The ASEAN Schools Sports Council (ASSC), formed in 1978, is an apolitical
+regional organization that promotes sports amongst the ten member countries
+- Brunei Darussalam, Cambodia, Indonesia, Lao PDR, Malaysia, Myanmar, Philippines,
+Singapore, Thailand, and Vietnam.&nbsp; The aim of the Council is to strengthen
+international ties, appreciation and understanding among ASEAN member nations.&nbsp;&nbsp;</p>
+<p>The positions of ASSC President and the nine Vice-Presidents (i.e. one
+from each member country) are held at Ministerial level.&nbsp; Currently,
+Lao PDR holds the Presidency of ASSC and will complete its two-year term
+by the end of 2026.&nbsp; By rotation, Malaysia will assume the role of
+President from 2027-2028.&nbsp; In addition, the ASSC also maintains a
+permanent Treasurer (held by Malaysia), and a Technical Committee which
+oversees the rules and provisions for competitions.&nbsp; The Technical
+Committee is currently chaired by Singapore, and is represented by Director,
+Physical, Sports and Outdoor Education Branch (MOE).&nbsp;</p>
 <p></p>
 <p></p>

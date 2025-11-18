@@ -1,8 +1,9 @@
 ---
 title: Sporting Oath
-permalink: /sporting-oath/
+permalink: /13th-asg/sporting-oath/
 variant: markdown
 description: ""
+third_nav_title: 13TH ASG
 ---
 <h2><center><strong>THE SPORTING OATH</strong>&nbsp;</center></h2>
 <div class="isomer-image-wrapper">

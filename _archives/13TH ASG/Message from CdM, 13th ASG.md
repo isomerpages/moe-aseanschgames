@@ -1,8 +1,9 @@
 ---
 title: Message from CdM, 13th ASG
-permalink: /message-from-cdm-13th-asg/
+permalink: /13th-asg/message-from-cdm-13th-asg/
 variant: markdown
 description: ""
+third_nav_title: 13TH ASG
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 25%; padding: 15px" height="auto" width="100%" alt="" align="left" src="/images/CDM/1.jpg">

@@ -4,16 +4,20 @@ permalink: /background-of-asean-schools-games/
 variant: tiptap
 description: ""
 ---
-<p>Since the satellite event in the region was started in 1977 with the 1st
-ASEAN Schools Track &amp; Field Championships held in Jakarta, the ASEAN
-Schools Sports Council (ASSC) which was formed that year has increased
-its yearly sporting calendar over the years to cover 12 sports. The 1st
-ASEAN Schools Games in Thailand marked a milestone for ASSC as it moved
-from hosting satellite championships to consolidating all the sports into
-one yearly major sporting event in a ‘Games’ format.</p>
-<p></p>
-<p>Subsequent years, the countries took turns to host the ASEAN Schools Games
-as follows:</p>
+<p>The first ASEAN Schools Championships were held in 1977 for the sport
+of Track and Field and was hosted by Indonesia. Thereafter with Indonesia
+initiating the idea, the ASEAN Schools Sports Council (ASSC) was formed
+to coordinate and champion sporting programmes and activities in ASEAN
+countries. In 2008, the ASSC members agreed to adopt a ‘SEA’ Games type
+format (i.e. as a multi-sport event) for its competitions starting with
+the 1<sup>st </sup>ASEAN Schools Games (ASG) in 2009.</p>
+<p>The 1<sup>st </sup>ASEAN Schools Games (2009), with ten sports, was hosted
+by Thailand in Suphanburi. Prior to this, the ASSC scheduled four to five
+single satellite sports championships per year hosted by various member
+countries.</p>
+<p>The schedule of hosting countries for the multi-games ASG is planned until
+2025:</p>
+<hr>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -96,12 +100,16 @@ as follows:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ASG resized logos/2024_ASG_Logo_ASG_history_resize.png">
+</div>
 </td>
 </tr>
 </tbody>
 </table>
-<p>This year, the 13th ASEAN Schools Games will be held in Da Nang, Vietnam
-from 31 May to 9 June 2024.</p>
+<p></p>
+<p>This year, the 14th ASEAN Schools Games will be held in Bandar Seri Begawan,
+Brunei from 20 to 29 November 2025.</p>
 <p></p>
 <p>The objectives of ASG are as follows:</p>
 <ul data-tight="true" class="tight">
