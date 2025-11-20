@@ -9,6 +9,15 @@ sections:
   - hero:
       background: /images/Copy_of_13th_ASG_Banner_GIF.gif
       variant: center
-      button: Live Streaming 14th Asg opening ceremony
-      url: https://www.youtube.com/@ASG14Brunei
+      dropdown:
+        title: Competition Fixtures
+        options:
+          - title: Badminton
+            url: https://drive.google.com/file/d/10zj-r7yJWW5Ab0hQ1E_BG8PUs8hh2QXI/view?usp=sharing
+          - title: Basketball
+            url: https://drive.google.com/file/d/1HtaMWaPvzTVvfPevz0BDNZ5Uur-oEqEF/view?usp=sharing
+          - title: Netball
+            url: https://drive.google.com/file/d/1a9WL30OYDbxVF41VHsuOwgSrGYICtjRw/view?usp=sharing
+          - title: Sepak Takraw
+            url: https://docs.google.com/document/d/11Cuj9MWdx_eAz0aFcf8MiVmmd_2VcMyq/edit?usp=sharing&ouid=105945543817053908056&rtpof=true&sd=true
 ---
