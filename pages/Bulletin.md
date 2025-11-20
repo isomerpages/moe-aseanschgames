@@ -1,7 +1,7 @@
 ---
 title: Bulletin
 permalink: /14th-asg/bulletin/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h4><strong><a href="" rel="noopener nofollow" target="_blank">14th ASEAN Schools Games Official Website</a></strong></h4>
