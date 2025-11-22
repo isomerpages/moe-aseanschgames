@@ -8,7 +8,7 @@ description: ""
 <h4><strong><a href="https://drive.google.com/drive/folders/15YaEvl8jCQE_xTWPxUk0PS0wh2x2nqSt?usp=drive_link" rel="noopener nofollow" target="_blank">14th ASEAN Schools Games Photo Gallery</a></strong></h4>
 <h4><strong><a href="https://www.instagram.com/moesingapore/?hl=en" rel="noopener nofollow" target="_blank">MOE Singapore Official Instagram Page</a></strong></h4>
 <h4><strong><a href="https://www.instagram.com/14thaseanschoolsgames/" rel="noopener nofollow" target="_blank">14th ASEAN Schools Games Official Instagram Page</a></strong></h4>
-<h4><strong><a href="https://www.youtube.com/@ASG14Brunei" rel="noopener nofollow" target="_blank">14th ASEAN Schools Games Official Youtube Channel</a></strong></h4><a class="isomer-image-wrapper" href="https://www.instagram.com/14thaseanschoolsgames/"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/2025 ASG/Logo &amp; Mascot/14th_ASG_Logo.png"></a>
+<h4><strong><a href="https://www.youtube.com/@ASG14Brunei" rel="noopener nofollow" target="_blank">14th ASEAN Schools Games Official YouTube Channel</a></strong></h4><a class="isomer-image-wrapper" href="https://www.instagram.com/14thaseanschoolsgames/"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/2025 ASG/Logo &amp; Mascot/14th_ASG_Logo.png"></a>
 <h4><strong><u>14th ASG Send-Off Ceremony</u></strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 ASG/Send Off Ceremony/ASG_Sending_Off_14Nov_Z62_6190.jpg">
