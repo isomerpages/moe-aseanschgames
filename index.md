@@ -23,5 +23,5 @@ sections:
           - title: Sepak Takraw
             url: https://docs.google.com/document/d/11Cuj9MWdx_eAz0aFcf8MiVmmd_2VcMyq/edit?usp=sharing&ouid=105945543817053908056&rtpof=true&sd=true
           - title: Swimming
-            url: https://drive.google.com/file/d/1wNwMEh-4xEnALiE4b4kA-vhK6SzhgZgP/view?usp=sharing
+            url: https://tinyurl.com/14ASG25Swim
 ---
