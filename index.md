@@ -13,7 +13,7 @@ sections:
         title: Competition Fixtures
         options:
           - title: Athletics
-            url: https://drive.google.com/file/d/1jXSjriujFhLL21cLJGpZGzKQfhqjnAEX/view?usp=sharing
+            url: https://drive.google.com/file/d/1Sg1jCXdZbsApySgTmu8yyejyeLDnVPtR/view?usp=sharing
           - title: Badminton
             url: https://drive.google.com/file/d/10zj-r7yJWW5Ab0hQ1E_BG8PUs8hh2QXI/view?usp=sharing
           - title: Basketball
